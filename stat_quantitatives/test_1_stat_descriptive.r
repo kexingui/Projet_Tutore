@@ -164,7 +164,6 @@ print(histogramme)
 
 
 
-
 # PARTIE 2 : STATISTIQUES QUANTITATIVES COMPLEXES - EN CHANTIER!
 
 
@@ -180,23 +179,29 @@ ggplot(data, aes(x = age_loc, y = 1, color = niveau_etude)) +
   theme_minimal() +
   theme(axis.text.y = element_blank(), axis.ticks.y = element_blank())
 
+# Nettoyage et normalisation des données
+data$niveau_etude <- tolower(data$niveau_etude)
+data$niveau_etude <- trimws(data$niveau_etude)
+data$niveau_etude <- gsub("(\\b4ème\\b|\\b5ème\\b|\\b3ème\\b|\\btroisième\\b|\\btroisieme\\b|\\b4eme\\b|\\b3eme\\b)", "collège", data$niveau_etude)
+data$niveau_etude <- gsub("lycéen|terminale|terminal", "lycée", data$niveau_etude)
+data$niveau_etude <- gsub(".*\\lycée\\b.*", "lycée", data$niveau_etude)
+data$niveau_etude <- gsub(".*\\bcollèges?\\b.*", "collège", data$niveau_etude)
+data$niveau_etude <- trimws(data$niveau_etude)
 
 # Tableau croisé entre tranche d'âge et niveau d'étude
 cross_table <- table(data$classe_nouv, data$niveau_etude)
-
 print(cross_table)
-
+#write.csv(cross_table, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_tranche_age_x_niveau_etude.csv", row.names = TRUE)
 cross_table_df <- as.data.frame(cross_table)
-colnames(cross_table_df) <- c("classe_nouv", "niveau_etude", "Freq")
-cross_table_df
+colnames(cross_table_df) <- c("tranche_age", "niveau_etude", "Freq")
 
-ggplot(cross_table_df, aes(x = niveau_etude, y = classe_nouv, fill = Freq)) +
+ggplot(cross_table_df, aes(x = niveau_etude, y = tranche_age, fill = Freq)) +
   geom_tile(color = "white") +
-  scale_fill_gradient(low = "white", high = "black") +
-  labs(title = "Cross Tabulation of Studies Level and Age",
+  scale_fill_gradient(low = "white", high = "purple") +
+  labs(title = "Tableau croisé du niveau d'étude en fonction des tranches d'âge",
        x = "Niveau d'Étude", y = "tranche d'âge",
        fill = "Fréquence") +
-  theme_minimal()
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 # marche pas
 #ggplot(cross_table_df, aes(x = niveau_etude, fill = classe_nouv)) +
@@ -212,27 +217,56 @@ ggplot(cross_table_df, aes(x = niveau_etude, y = classe_nouv, fill = Freq)) +
   #########################
 
   # TODO! 
-ggplot(data, aes(x = age_loc, y = 1, color = niveau_etude)) +
+ggplot(data, aes(x = age_loc, y = 1, color = INSEE)) +
   geom_point(position = position_jitter(height = 0.5), size = 3) +
-  labs(title = "Distribution du niveau d'éducation en fonction de l'âge",
+  labs(title = "Distribution de la catégorie socio-pro en fonction de l'âge",
        x = "Age", y = "") +
   theme_minimal() +
   theme(axis.text.y = element_blank(), axis.ticks.y = element_blank())
 
 
-# Tableau croisé entre tranche d'âge et niveau d'étude
-cross_table <- table(data$classe_nouv, data$niveau_etude)
+# Tableau croisé entre tranche d'âge et caté socio-pro
 
-print(cross_table)
+# Nettoyage et normalisation des données
+data$INSEE <- tolower(data$INSEE)
+data$INSEE <- trimws(data$INSEE)
+data$INSEE <- gsub("etudiante?|\\bétudiant.\\b", "étudiant", data$INSEE)
+data$INSEE <- gsub(".*\\chômage\\b.*|autres personnes sans activité professionnelle", "chômeur", data$INSEE)
+data$INSEE <- gsub(".*\\bcollégienn?e?\\b.*", "collègien", data$INSEE)
+data$INSEE <- trimws(data$INSEE)
+  
+cross_table_insee <- table(data$classe_nouv, data$INSEE)
+print(cross_table_insee)
+write.csv(cross_table_insee, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_tranche_age_x_insee.csv", row.names = TRUE)
 
-cross_table_df <- as.data.frame(cross_table)
-colnames(cross_table_df) <- c("classe_nouv", "niveau_etude", "Freq")
-cross_table_df
+cross_table_insee_df <- as.data.frame(cross_table_insee)
+colnames(cross_table_insee_df) <- c("tranche_age", "insee", "Freq")
+cross_table_insee_df
+write.csv(cross_table_insee_df, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_tranche_age_x_insee.csv", row.names = TRUE)
 
-ggplot(cross_table_df, aes(x = niveau_etude, y = classe_nouv, fill = Freq)) +
+
+ggplot(cross_table_insee_df, aes(x = insee, y = tranche_age, fill = Freq)) +
   geom_tile(color = "white") +
-  scale_fill_gradient(low = "white", high = "black") +
-  labs(title = "Cross Tabulation of Studies Level and Age",
-       x = "Niveau d'Étude", y = "tranche d'âge",
+  scale_fill_gradient(low = "white", high = "orange") +
+  labs(title = "Tableau croisé de la catégorie socio-pro en fonction de la tranche d'âge",
+       x = "Catégorie socio-professionnelle", y = "tranche d'âge",
        fill = "Fréquence") +
-  theme_minimal()
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+
+cross_table_insee_df$Percentage <- round((cross_table_insee_df$Freq / sum(cross_table_insee_df$Freq)) * 100)
+
+pie_charts <- lapply(split(cross_table_insee_df, cross_table_insee_df$tranche_age), function(data) {
+  pie_chart <- ggplot(data, aes(x = "", y = Freq, fill = insee)) +
+    geom_bar(width = 1, stat = "identity") +
+    geom_text(aes(label = paste0(Freq, "%")), position = position_stack(vjust = 0.5)) +
+    coord_polar(theta = "y") +
+    ggtitle(paste("Répartition des locuteurs pour la tranche d'âge", levels(data$tranche_age))) +
+    theme_void() +
+    theme(plot.title = element_text(hjust = 0.5))
+  
+  print(pie_chart)
+})
+
+# Affichage des pie charts
+pie_charts[2]
