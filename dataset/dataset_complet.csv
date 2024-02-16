@@ -1,4 +1,4 @@
-ID,filename,content,age_loc,classe_nouv,niveau_etude,INSEE,Commentaire études,Profession en termes propres,Unnamed: 9
+ID,filename,content,age_loc,classe_nouv,niveau_etude,niveau_etude_normalise,INSEE,Commentaire études,Profession en termes propres,Unnamed: 9
 92,MPF_Elikia_15.txt,"et moi c'est Elikia
 ben déjà euh le projet il s'intitule nous sommes un musée
 du d'un cadre
@@ -387,7 +387,7 @@ c'est pour ça tu es revenu ?
 on aura tout
 moi je pense qu'on a tout dit je vais juste aller récupérer mes chips et mon jus
 parce que c'est bien mignon de ranger les tables 
-de rien",15,-30,Actuellement en classe de troisième au collège.,,,,
+de rien",15,-30,Actuellement en classe de troisième au collège.,Niveau 3 (CAP-DNB),étudiant,,,
 93,MPF_Ali_12.txt,"je suis arrivé euh vingt-six septembre deux mille cinq
 mais je suis je suis né ici
 après je suis reparti en Algérie après je suis euh revenu
@@ -555,7 +555,7 @@ d'accord
 de rien
 je pars
 au revoir
-au revoir",12,-30,classe de 5ème de collège,étudiant,,,
+au revoir",12,-30,classe de 5ème de collège,Niveau 3 (CAP-DNB),étudiant,,,
 94,MPF_Amina_17.txt,"c'est à toi de me poser des questions ou c'est moi je parle toute seule ?
 non moi en fait je veux juste jeter mon chewing-&gum parce qu'il me gêne
 ouais
@@ -1268,7 +1268,7 @@ voilà je t'ai dit c'est
 je savais qu'y avait un truc je savais qu'y avait un truc qui me amorc qui me disait que c'était sur Paris
 ouais en Ile-de-France
 neuf deux neuf trois après il dit bah je vais le mettre après il dit neuf deux il dit après j'ai oublié non il a dit quatre-vingt-douze bah c'est facile de retenir
-comme les Hauts-de",17,-30,Terminal STG (CGRH),Elève en terminale,,,
+comme les Hauts-de",17,-30,Terminal STG (CGRH),,Elève en terminale,,,
 95,MPF_Anna_12.txt,"alors moi je m'appelle Anna
 j'ai douze ans je suis togolaise béninoise centrafricaine
 alors moi je m'appelle Anna j'ai douze ans je suis togolaise béninoise centrafricaine
@@ -1696,7 +1696,7 @@ non
 ca dépend
 ouais
 en fait ben faut que tu connaisses la base de la langue française pour rajouter c'est toujours comme ça si tu connais pas la base pour n'importe quoi si tu connais pas la base ben tu peux pas faire des suppléants des suppléments et tout ben si tu connais la base de la langue française tu peux rajouter en parlant la langue euh des jeunes
-de rien",12,-30,"a commencé des études de lettres modernes, qu’elle a arrêtées en cours d’année","assistante d’éducation dans un collège en ZEP, à temps partiel",,,
+de rien",12,-30,"a commencé des études de lettres modernes, qu’elle a arrêtées en cours d’année",,"assistante d’éducation dans un collège en ZEP, à temps partiel",,,
 95,MPF_Anna_12.txt,"alors moi je m'appelle Anna
 j'ai douze ans je suis togolaise béninoise centrafricaine
 alors moi je m'appelle Anna j'ai douze ans je suis togolaise béninoise centrafricaine
@@ -2124,7 +2124,7 @@ non
 ca dépend
 ouais
 en fait ben faut que tu connaisses la base de la langue française pour rajouter c'est toujours comme ça si tu connais pas la base pour n'importe quoi si tu connais pas la base ben tu peux pas faire des suppléants des suppléments et tout ben si tu connais la base de la langue française tu peux rajouter en parlant la langue euh des jeunes
-de rien",12,-30,5ème,élève /collégienne,,,
+de rien",12,-30,5ème,,élève /collégienne,,,
 96,MPF_Ashir_16.txt,"ouais
 non les profs euh ouais &=rit
 c'est vrai
@@ -2577,7 +2577,7 @@ c'est ça devrait être naturel normalement
 hm
 merci beaucoup hein
 merci à vous
-ben de rien",16,-30,lycée,,,,
+ben de rien",16,-30,lycée,,,,,
 97,MPF_Axelle_17.txt,"bon en fait ce que maman veut dire c'est par exemple Alexis il disait que genre quand c'était vous qui étiez au lycée
 euh à Racine ils avaient une nouvelle expression genre euh
 souvent
@@ -3011,7 +3011,7 @@ là quand tu discutes c'est ce que je disais quand tu discutes sérieusement tu 
 tu perds trop de crédibilité là par contre
 ouais
 vous êtes sûrs que c'est ouvert ?
-c'est pour avoir mon concours",17,-30,Première année de medecine,Etudiante,,,
+c'est pour avoir mon concours",17,-30,Première année de medecine,,Etudiante,,,
 98,MPF_Carole_27.txt,"ah ma fille toute blanche hein
 je te jure
 oh oui c'est vrai que ça aussi ça me fait peur hein le fait que ben qu'amorc enfin qu'elle soit trop amorc enfin enfin elle elle a tout les traits euh pour le moment d'une blanche quoi les cheveux le la la couleur quoi que enfin bon les les mains sont un peu plus foncées enfin bon on verra tu vois
@@ -3102,7 +3102,7 @@ ah bon pourquoi ?
 ouais
 ah oui il parle euh
 c'est vrai ?
-ah ouais",27,-30,BTS + 4 ans de formation professionnelle,Assistante juridique,,,
+ah ouais",27,-30,BTS + 4 ans de formation professionnelle,,Assistante juridique,,,
 99,MPF_Caroline_18.txt,"ouais donc je te disais Jasmine euh sans commenaire
 mais grave hm
 mais de toute façon elle de toute façon elle a été investie
@@ -3832,7 +3832,7 @@ le &mec il est là il il est dans mon hall il est comme ça et s'y a un &mec de 
 il dit elle arrive
 mais quoi elle arrive va dans ton bâtiment espèce de fils de &pute ta mère la &tchoin là
 mais je te jure la vie
-il est dans mon bâtiment il &zone ",18,-30,Terminale,Etudiante,,,
+il est dans mon bâtiment il &zone ",18,-30,Terminale,,Etudiante,,,
 99,MPF_Caroline_18.txt,"ouais donc je te disais Jasmine euh sans commenaire
 mais grave hm
 mais de toute façon elle de toute façon elle a été investie
@@ -4562,7 +4562,7 @@ le &mec il est là il il est dans mon hall il est comme ça et s'y a un &mec de 
 il dit elle arrive
 mais quoi elle arrive va dans ton bâtiment espèce de fils de &pute ta mère la &tchoin là
 mais je te jure la vie
-il est dans mon bâtiment il &zone ",18,-30,Terminale,Etudiante.,,,
+il est dans mon bâtiment il &zone ",18,-30,Terminale,,Etudiante.,,,
 99,MPF_Caroline_18.txt,"ouais donc je te disais Jasmine euh sans commenaire
 mais grave hm
 mais de toute façon elle de toute façon elle a été investie
@@ -5292,7 +5292,7 @@ le &mec il est là il il est dans mon hall il est comme ça et s'y a un &mec de 
 il dit elle arrive
 mais quoi elle arrive va dans ton bâtiment espèce de fils de &pute ta mère la &tchoin là
 mais je te jure la vie
-il est dans mon bâtiment il &zone ",18,-30,Terminale,Etudiante,,,
+il est dans mon bâtiment il &zone ",18,-30,Terminale,,Etudiante,,,
 99,MPF_Caroline_18.txt,"ouais donc je te disais Jasmine euh sans commenaire
 mais grave hm
 mais de toute façon elle de toute façon elle a été investie
@@ -6022,7 +6022,7 @@ le &mec il est là il il est dans mon hall il est comme ça et s'y a un &mec de 
 il dit elle arrive
 mais quoi elle arrive va dans ton bâtiment espèce de fils de &pute ta mère la &tchoin là
 mais je te jure la vie
-il est dans mon bâtiment il &zone ",18,-30,Terminale,Etudiante.,,,
+il est dans mon bâtiment il &zone ",18,-30,Terminale,,Etudiante.,,,
 100,MPF_Chafi_15.txt,"ouais moi je sais
 ouais &wallah
 t'inquiète hm c'est amorc c'est pas le même arabe c'est
@@ -6806,7 +6806,7 @@ c'est une
 je crois c'est un
 moi moi on m'attend c'est pour ça
 je crois il a dû partir l'autre
-reste",15,-30,3ème Insertion,,,,
+reste",15,-30,3ème Insertion,,,,,
 101,MPF_Chahine_15.txt,"on enfin
 sinon je peux parler anglais hein aussi 
 bon ben moi c'est Chahine je suis au collège Jean Macé
@@ -7240,7 +7240,7 @@ oui nous aussi
 ah ouais grave
 comme d'habitude d'ailleurs chose
 oui ça se voit quand même que c'est fait soi-même parce que vraiment hein c'est pas 
-on c'était sympa de rien",15,-30,3eme  année ( collège Jean Macé),,,,
+on c'était sympa de rien",15,-30,3eme  année ( collège Jean Macé),,,,,
 102,MPF_David_19.txt,"quoi que tout de suite
 tu es au courant que là que Salima et Noëlle c'est les meilleures copines du monde là
 mais au départ elle t'avait dit que elle pouvait pas la &saquer
@@ -7252,7 +7252,7 @@ c'est comme euh Anne et et euh Maria elles ont remarqué que à chaque fois que 
 ouais y avait euh ouais y avait Maria après Salima elle est arrivée donc
 ouais ouais ouais
 c'est le l'histoire l'histoire avec Jérome l'histoire avec Jérome on lui a même pas parlé
-ouais",19,-30,baccalauréat de typographie,assistant d’éducation dans un collège en ZEP pendant 4 mois,,,
+ouais",19,-30,baccalauréat de typographie,,assistant d’éducation dans un collège en ZEP pendant 4 mois,,,
 102,MPF_David_19.txt,"quoi que tout de suite
 tu es au courant que là que Salima et Noëlle c'est les meilleures copines du monde là
 mais au départ elle t'avait dit que elle pouvait pas la &saquer
@@ -7264,7 +7264,7 @@ c'est comme euh Anne et et euh Maria elles ont remarqué que à chaque fois que 
 ouais y avait euh ouais y avait Maria après Salima elle est arrivée donc
 ouais ouais ouais
 c'est le l'histoire l'histoire avec Jérome l'histoire avec Jérome on lui a même pas parlé
-ouais",19,-30,baccalauréat de typographie,assistant d’éducation dans un collège en ZEP pendant 4 mois,,,
+ouais",19,-30,baccalauréat de typographie,,assistant d’éducation dans un collège en ZEP pendant 4 mois,,,
 103,MPF_Hakim_17.txt,"ya &rab hop
 moi je suivais en cours mais je travaillais pas chez moi
 voilà mais je travaille pas mais en amorc déjà je travaille pas j'ai la moyenne
@@ -8028,7 +8028,7 @@ c'est sûr y a un truc après le BTS
 moi moi je crois je vais continuer mais
 j'ai envie d'avoir un bon salaire &wesh
 ouais voilà
-faut faire de l'argent de côté",17,-30,Lycéen   (au moment de l’enquête) ;,,,,
+faut faire de l'argent de côté",17,-30,Lycéen   (au moment de l’enquête) ,,,,,
 104,MPF_Hanane_14.txt,"on va dire des trucs de euh 
 on va dire des trucs avec 
 ah bon?
@@ -8677,7 +8677,7 @@ c'est ma soce
 hein ?
 ouais je l'écoute h vingt quatre
 de rien
-ouah",14,-30,cours par correspondance,,,,
+ouah",14,-30,cours par correspondance,,,,,
 105,MPF_Jeanne_14.txt,"je 
 je m'appelle Jeanne
 j'ai quatorze ans
@@ -8993,7 +8993,7 @@ tar-
 c'est fesses
 ou des fois ah nonici amorc oui oui c'est ça
 &Wesh bah 
-ça a été sympa hein",14,-30,3ème,élève /collégienne,,,
+ça a été sympa hein",14,-30,3ème,,élève /collégienne,,,
 106,MPF_Karim_16.txt,"il fait &walou
 ouais
 vite fait
@@ -9796,7 +9796,7 @@ ouais j'aimais bien
 de quoi maths ?
 moi j'avoue je suis 
 j'avoue moi avec les les leçons moi aussi le bac c'est y a pas y a pas de leçons y a pas beaucoup y a pas beaucoup de leçons
-tu v",16,-30,3ème   (au moment de l’enquête);,,,,
+tu v",16,-30,3ème   (au moment de l’enquête),,,,,
 107,MPF_Kimia_14.txt,"bien sûr moi c'est Kimia
 tu v-
 je peux le présenter si tu veux ts
@@ -10148,7 +10148,7 @@ ils ont plus joué le côté écriture en vrai
 n'est-ce pas Nabil ça va ?
 euh vous avez des questions ?
 mh
-il y a pas de quoi",14,-30,En classe de troisième au collège.,Collégienne.,,,
+il y a pas de quoi",14,-30,En classe de troisième au collège.,,Collégienne.,,,
 108,MPF_Lamia_18.txt,"pose-le
 mademoiselle hein
 alors je m'appelle Lamia
@@ -10953,7 +10953,7 @@ ouais
 et c'était quelle heure ?
 ah
 je sais pas
-tu as y a des toilettes là je vais aux toilettes",18,-30,Terminale CGRH,Elève en terminale,,,
+tu as y a des toilettes là je vais aux toilettes",18,-30,Terminale CGRH,,Elève en terminale,,,
 109,MPF_Lupita_14.txt,"ok
 bah
 je m'appelle Lupita j'ai quatorze ans
@@ -11572,7 +11572,7 @@ un tar-un &tarpé un &tarpé un &tarpé un &tarpé c'est des fesses
 un &toubab c'est un bab&tou
 les &works les &yorks je sais pas
 façon de dire bonjour hein
-zar&ma tu fais genre",14,-30,3ème,élève /collégienne,,,
+zar&ma tu fais genre",14,-30,3ème,,élève /collégienne,,,
 110,MPF_Marc_27.txt,"là elle a huit mois e-
 c'est ma mère
 je prenais des risques
@@ -11718,7 +11718,7 @@ au mariage de Marie il était là
 avec 
 oui je me souviens
 hé oui 
-oh mais dans ce cas-là mes mes &potes ils t'intéresseraient aussi",27,-30,Bac + 4,Professeur des écoles,,,
+oh mais dans ce cas-là mes mes &potes ils t'intéresseraient aussi",27,-30,Bac + 4,,Professeur des écoles,,,
 111,MPF_Marie_12.txt,"on commence par ?
 d'accord
 moi je m'appelle Marie
@@ -12072,7 +12072,7 @@ les euh les mots français
 après ben s'ils savent ben
 française après s'ils arrivent ben plus tard il pourra apprendre les mots de &wesh &wesh par exemple Anouminata atou-&amachin Aminata elle elle connait beau-elle connait les &wesh &wesh parce que la dernière fois elle m'avait dit &wesh
 et après tu 
-de rien",12,-30,Licence,sans,,,
+de rien",12,-30,Licence,,sans,,,
 111,MPF_Marie_12.txt,"on commence par ?
 d'accord
 moi je m'appelle Marie
@@ -12426,7 +12426,7 @@ les euh les mots français
 après ben s'ils savent ben
 française après s'ils arrivent ben plus tard il pourra apprendre les mots de &wesh &wesh par exemple Anouminata atou-&amachin Aminata elle elle connait beau-elle connait les &wesh &wesh parce que la dernière fois elle m'avait dit &wesh
 et après tu 
-de rien",12,-30,Licence,,,,
+de rien",12,-30,Licence,,,,,
 111,MPF_Marie_12.txt,"on commence par ?
 d'accord
 moi je m'appelle Marie
@@ -12780,7 +12780,7 @@ les euh les mots français
 après ben s'ils savent ben
 française après s'ils arrivent ben plus tard il pourra apprendre les mots de &wesh &wesh par exemple Anouminata atou-&amachin Aminata elle elle connait beau-elle connait les &wesh &wesh parce que la dernière fois elle m'avait dit &wesh
 et après tu 
-de rien",12,-30,5ème,élève /collégienne,,,
+de rien",12,-30,5ème,,élève /collégienne,,,
 112,MPF_Mouna_15.txt,"hm hm
 ouais
 on doit parler de quoi ? 
@@ -13420,7 +13420,7 @@ ouais
 elle est folle
 ben eh je l'ai sur mon téléphone 
 je l'ai sur mon téléphone la chanson
-ouai",15,-30,passe au 4ème,,,,
+ouai",15,-30,passe au 4ème,,,,,
 113,MPF_Nicolas_19.txt,"eh la vie de ma &mère tu l'as vu le dragon &narvalo euh
 euh en haut là et il faisait comme euh
 ouais
@@ -13454,7 +13454,7 @@ où au  ?
 tu es un 
 tu es content tu as un vieuxvas-yx
 et et il était là déjà avant neuf heures ?
-non lui il a dit tranquille il a voulu dire",19,-30,baccalauréat de typographie,assistant d’éducation dans un collège en ZEP pendant 4 mois,,,
+non lui il a dit tranquille il a voulu dire",19,-30,baccalauréat de typographie,,assistant d’éducation dans un collège en ZEP pendant 4 mois,,,
 115,MPF_Patricia_19.txt,"ouais
 apparemment elle maîtrise pas ses classes
 ouais elle sait pas maîtriser ses élèves
@@ -13532,7 +13532,7 @@ et tu as dit amorc x
 non mais amorc amorc amorc amorc amorc femme étoile non mais c'est c'est ton expression en fait qui me fait rire
 aïe aïe aïe
 il est quelle heure là ?
-non que ",19,-30,"a commencé des études de lettres modernes, qu’elle a arrêtées en cours d’année","assistante d’éducation dans un collège en ZEP, à temps partiel",,,
+non que ",19,-30,"a commencé des études de lettres modernes, qu’elle a arrêtées en cours d’année",,"assistante d’éducation dans un collège en ZEP, à temps partiel",,,
 116,MPF_Ramzi_13.txt,"bonjour Nawal
 je m'appelle Ramzi j'ai treize ans au collège Jean Macé
 et euh je suis d'origine tunisienne
@@ -13907,7 +13907,7 @@ voilà
 au revoir
 merci
 au revoir
-salut Nawal",13,-30,4eme année ( collège),Collégien,,,
+salut Nawal",13,-30,4eme année ( collège),,Collégien,,,
 117,MPF_Salim_16.txt,"il a fait quoi ?
 qui Iro ?
 il a fait quoi ?
@@ -14930,7 +14930,7 @@ ouais
 des protéines
 ouais
 non pas en fait c'est c'est c'est que c'est que de l'air ça
-avec la vu que ",16,-30,3ème Insertion,,,,
+avec la vu que ",16,-30,3ème Insertion,,,,,
 117,MPF_Salim_16.txt,"il a fait quoi ?
 qui Iro ?
 il a fait quoi ?
@@ -15953,7 +15953,7 @@ ouais
 des protéines
 ouais
 non pas en fait c'est c'est c'est que c'est que de l'air ça
-avec la vu que ",16,-30,3ème   (au moment de l’enquête);,,,,
+avec la vu que ",16,-30,3ème   (au moment de l’enquête),,,,,
 118,MPF_Walid_17.txt,"ouais
 la même chose
 ouais
@@ -16821,7 +16821,7 @@ des trucs légals des trucs légals
 tu reprends des comment ça s'appelle
 moi je connais le le &mec de la Mairie
 il comment il s'appelle il prend les restes
-de cuivre et tout",17,-30,Lycéen   (au moment de l’enquête) ;,,,,
+de cuivre et tout",17,-30,Lycéen   (au moment de l’enquête) ,,,,,
 119,MPF_Yanis_14.txt,"ok donc euh je m'appelle Yanis
 j'ai quatorze ans 
 donc euh je viens au de Fontenay-le-Fleury dans les Yvelines
@@ -17454,7 +17454,7 @@ non
 ils ont plus de &méthodo qu'autre chose parce que pour amorc les terminales c'est le bac après ils ont tout plein d'autres trucs hein il n'y a pas que le bac
 euh non 
 ok 
-non merci d'être venue",14,-30,3ème,,,,
+non merci d'être venue",14,-30,3ème,,,,,
 120,MPF_Youssef_15.txt,"ah oui naal sheytan c'est ça
 là y avait plein de trucs comme ça
 et des maladies c'est là
@@ -17915,7 +17915,7 @@ mais j'ai pas trouvé de travail dedans
 ouais c'est ce que je vais essayer de faire
 voire un an même c'est normalement et même le je me quand je m'étais renseigné avec le &pote à Lorette
 c'est la formation dont il me parlait pour monter sur un bateau
-c'est ",15,-30,BEP logistique,En chômage ( ex manager dans un restaurant asiatique planet sushi sur Paris.,,,
+c'est ",15,-30,BEP logistique,,En chômage ( ex manager dans un restaurant asiatique planet sushi sur Paris.,,,
 121,MPF_Zorika_15.txt,"y a même quelques profs qui parlent comme nous
 non les profs euh à l'école
 ils parlent comme nous genre euh si on est on parle ils vont se retourner et ils vont dire moucave
@@ -18525,7 +18525,7 @@ c’est naturel chez nous c'est naturel
 c'est naturel
 merci
 merci
-merci",15,-30,Lycéen,,,,
+merci",15,-30,Lycéen,,,,,
 7,ESLO2_ENT_1001_BV1_23.txt,"marche bien au moins votre truc euh
 d'accord
 non c'est pas ça c'est parce que vous vouliez tester donc euh
@@ -19420,7 +19420,7 @@ j'autorise
 ouais
 ouais
 d'accord
-hop",23,-30,Bac + 1,Ouvriers,Bac STT + BTS commerceformation AFPA bâtiment second oeuvre,Professionnel actifouvrier batiment second oeuvre,
+hop",23,-30,Bac + 1,,Ouvriers,Bac STT + BTS commerceformation AFPA bâtiment second oeuvre,Professionnel actifouvrier batiment second oeuvre,
 8,ESLO2_ENT_1002_RL2_46.txt,"hm
 hm hm
 alors mon parcours
@@ -20157,7 +20157,7 @@ c'est fini
 moi j'y crois pas trop hein j'ai déjà validé un un UF
 mais bon même en validant l'autre euh j'en ai quatre à valider
 franchement j'y crois pas trop
-parce",46,30-60,Bac + 2,Professions intermédiaires,Est en train de faire une formation qui lui donnera un bac+3,Professionnel actif Educatrice spécialisée,
+parce",46,30-60,Bac + 2,,Professions intermédiaires,Est en train de faire une formation qui lui donnera un bac+3,Professionnel actif Educatrice spécialisée,
 9,ESLO2_ENT_1003_KC3_21.txt,"bonjour 
 entrez entrez Noémie 
 vous avez pas eu trop de mal à trouver 
@@ -21324,7 +21324,7 @@ j'aime bien le centre-ville aussi mais euh
 y vivre euh tout le temps 
 je suis pas sûre non 
 pour faire mes études se serait très bien 
-mais après m'installer vraiment",21,-30,Bac + 1,Autres personnes sans activité professionnelle,L'année de l'interview: petits boulots (garderies à la crèche par exemple)A la rentrée suivante: part à Tours dans une école pour préparer le concours pour être éducatrice de jeunes enfants,,
+mais après m'installer vraiment",21,-30,Bac + 1,,Autres personnes sans activité professionnelle,L'année de l'interview: petits boulots (garderies à la crèche par exemple)A la rentrée suivante: part à Tours dans une école pour préparer le concours pour être éducatrice de jeunes enfants,,
 10,ESLO2_ENT_1004_ZF4_62.txt,"oui
 oui
 orléanaise
@@ -22473,7 +22473,7 @@ Régine Pernoud
 elle était toute petite alors nous on était en haut on la voyait zigzaguer euh
 oui je suis allée bon
 ça a amorc c'est un intérêt euh je ne sais pas
-pour qui ça",62,60+,Bac,Retraités,,Retraitéinstitutrice directrice d'école,
+pour qui ça",62,60+,Bac,,Retraités,,Retraitéinstitutrice directrice d'école,
 11,ESLO2_ENT_1005_EH5_49.txt,"alors nous sommes arrivés à Orléans en
 août quatre-vingt-treize et à Olivet en mai quatre-vingt-quatorze
 voilà
@@ -23156,7 +23156,7 @@ on s'est dit on fait pas ça pour gagner des sous
 donc on a euh tous les ans versé cet argent à des associations
 donc euh là les dernières années
 bon c'était pas des fortunes mais on versait environ trois mille cinq cents euros
-euh à deux associations qu'on ",49,30-60,Bac + 5 et plus,Autres personnes sans activité professionnelle,Etudes de droit,Autrefemme au foyer,
+euh à deux associations qu'on ",49,30-60,Bac + 5 et plus,,Autres personnes sans activité professionnelle,Etudes de droit,Autrefemme au foyer,
 12,ESLO2_ENT_1006_OS6_80.txt,"oui oui oui
 oui
 mon père il a fait le métier un peu quand il s'est marié avec ma mère
@@ -24495,7 +24495,7 @@ c'est comme ça que tout un tas de boîtes ont disparu
 maintenant on en paye
 les conséquences
 voilà
-moi",80,60+,Certificat d'études," Artisans, commerçants et chefs d'entreprise","Brevet élémentaire mécanique générale de l'armée, car le CAP n'existait pas",Retraité Taillandier = forgeron spécialisé dans la fabrication des outils pour tailler,
+moi",80,60+,Certificat d'études,," Artisans, commerçants et chefs d'entreprise","Brevet élémentaire mécanique générale de l'armée, car le CAP n'existait pas",Retraité Taillandier = forgeron spécialisé dans la fabrication des outils pour tailler,
 13,ESLO2_ENT_1007_ZU9_29.txt,"oui
 euh 
 ou pas
@@ -25725,7 +25725,7 @@ et quand tu m'écoutes parler
 hm
 hm
 oui
-mais moi a",29,-30,Bac + 5 et plus,Autres personnes sans activité professionnelle,Est étudiante en doctorat + ATER à l'IUFM,Professionnel actifEtudiante en doctorat et ATER,
+mais moi a",29,-30,Bac + 5 et plus,,Autres personnes sans activité professionnelle,Est étudiante en doctorat + ATER à l'IUFM,Professionnel actifEtudiante en doctorat et ATER,
 14,ESLO2_ENT_1008_HF8_44.txt,"bah moi j'habite à Orléans depuis
 soixante-treize
 avec des coupures
@@ -26616,7 +26616,7 @@ bah oui parce que amorc bon
 ils perdaient leur clientèle et tout et pff
 c'était quand même une clientèle j'imagine euh ça devait être fréquenté par une certaine euh
 tu vois ?
-cli",44,30-60,Bac + 4,Autres personnes sans activité professionnelle,,Chômeur,
+cli",44,30-60,Bac + 4,,Autres personnes sans activité professionnelle,,Chômeur,
 15,ESLO2_ENT_1009_LX10_66.txt,"euh
 alors euh on
 on on est 
@@ -27678,7 +27678,7 @@ mais ça s'est quand même fait et c'est quand même une erreur
 l'école maternelle elle avait trois étages donc fallait monter 
 les enfants 
 les redescendre enfin 
-c'était co",66,60+,Bac,Retraités,,RetraitéInstitutrice,
+c'était co",66,60+,Bac,,Retraités,,RetraitéInstitutrice,
 16,ESLO2_ENT_1010_GK11_31.txt,"ouais d'accord
 ouais moi je suis amorc originaire d'Orléans
 donc euh
@@ -28442,7 +28442,7 @@ voilà
 j'adore ça alors je joue pas mais euh j'adore ça
 et
 euh bah 
-alors c'est vraiment euh vraiment tout q",31,30-60,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,,Professionnel actifDélégué médical,
+alors c'est vraiment euh vraiment tout q",31,30-60,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,,Professionnel actifDélégué médical,
 17,ESLO2_ENT_1011_WA7FEM_66.txt,"oh moi je suis arrivée euh en soixante et onze ici
 moi je suis stéphanoise
 pas du tout non
@@ -29014,7 +29014,7 @@ posée à des Français oui d'accord
 ah bon
 ah oui 
 oui oui oui oui
-ah bah je vous en ",66,60+,Bac + 4,Retraités,2 ans de prépa + CAPES, Professeur d'Allemand en classe prépa (agrégée d'allemand),
+ah bah je vous en ",66,60+,Bac + 4,,Retraités,2 ans de prépa + CAPES, Professeur d'Allemand en classe prépa (agrégée d'allemand),
 18,ESLO2_ENT_1011_WA7_66.txt,"ouais
 j'ai toujours habité Orléans
 je suis orléanais
@@ -29744,7 +29744,7 @@ et voilà
 dans Orléans euh près de la Sologne bien sûr
 hier
 faudrait faudrait connaitre le
-quel est le chercheur qui a trouvé cette question ",66,60+,Bac + 3,Retraités,Ecole Supérieure de Commerce de Reims,Directeur administratif et financier dans entreprise familiale,
+quel est le chercheur qui a trouvé cette question ",66,60+,Bac + 3,,Retraités,Ecole Supérieure de Commerce de Reims,Directeur administratif et financier dans entreprise familiale,
 19,ESLO2_ENT_1012_UC12_36.txt,"depuis quand je suis 
 en
 quatre-vingt-quinze 
@@ -30501,7 +30501,7 @@ j'ai tâté à me réinscrire au conservatoire et
 nouvelle ville nouveau tout ça euh bon
 puis
 peut-être besoin de décrocher je sais pas j'avais fait tellement euh
-tellement beauc",36,30-60, Bac + 4,Employés,"Le témoin a une maitrise en cursus double histoire-géographie
+tellement beauc",36,30-60, Bac + 4,,Employés,"Le témoin a une maitrise en cursus double histoire-géographie
 Age de fin d'études: ",Professionnel actif responsable de la salle de lecture des archives départementales,
 20,ESLO2_ENT_1013_ZD13_27.txt,"vingt-six ans 
 toujours
@@ -31601,7 +31601,7 @@ de penser aux gens euh
 qui passent en voiture
 et qu'il y a il y avait quand même pas mal de parkings
 et que maintenant du coup bah il y a plus rien
-donc de faire le centre ancien c'est très bi",27,-30,Lycée Incomplet,Employés,Le témoin a arrêté les cours durant l'année de terminale,"Professionnel actifréférent périscolaire de l'école Ducerceaux à la mairie d'Orléans,",
+donc de faire le centre ancien c'est très bi",27,-30,Lycée Incomplet,,Employés,Le témoin a arrêté les cours durant l'année de terminale,"Professionnel actifréférent périscolaire de l'école Ducerceaux à la mairie d'Orléans,",
 21,ESLO2_ENT_1014_SD14_63.txt,"alors à la Source depuis mille neuf cent quatre-vingt-trois
 Orléans alors c'est une euh
 c'est une histoire à épisode enfin y à deux épisodes
@@ -32429,7 +32429,7 @@ là il termine
 bah en fait pour les enfants euh moi mes enfants euh
 euh ils aimaient bien la musique et nous on aimait bien qu'ils fassent de la musique aussi
 et à l'époque alors y avait des antennes du conservatoire à la Source
-et alors le amorc enfin le directeu",63,60+,Bac + 5 et plus,Retraités,,Retraité Ingénieur d'étude CNRS,
+et alors le amorc enfin le directeu",63,60+,Bac + 5 et plus,,Retraités,,Retraité Ingénieur d'étude CNRS,
 22,ESLO2_ENT_1015_EW15_73.txt,"quinze ans euh non à Olivet
 quinze ans à Olivet enfin on connaît oui
 on on y va souvent quand même hein c'est
@@ -33581,7 +33581,7 @@ y a combien y a cinq six ans
 là on a une piste cyclable
 mais alors on va se
 promener oui nous on on
-on fait bien avec eu",73,60+,Secondaire Complet ( brevet des collèges ),Retraités,,responsable agence bancaire,
+on fait bien avec eu",73,60+,Secondaire Complet ( brevet des collèges ),,Retraités,,responsable agence bancaire,
 23,ESLO2_ENT_1016_VB16_52.txt,"euh j'habite Olivet
 donc euh depuis deux mille-trois
 et auparavant j'ai habité à La Source depuis soixante-dix-sept
@@ -34399,7 +34399,7 @@ ouais ce qu'y a euh
 non amorc la radio locale j'écoutais France Bleue pendant un moment
 mais vous savez le fromage de chèvre euh
 le local non justement je lis le journal
-n",52,30-60,Bac ,Professions intermédiaires,,Professionnel actif chargée de contrôle antiblanchiment au centre financier La Poste,
+n",52,30-60,Bac ,,Professions intermédiaires,,Professionnel actif chargée de contrôle antiblanchiment au centre financier La Poste,
 24,ESLO2_ENT_1017_BT17_28.txt,"non non non
 je suis pas originaire d'ici
 j'y suis depuis
@@ -35908,7 +35908,7 @@ je vais rebondir bien
 je vais réussir à trouver mes mots
 en fait
 et souvent euh
-amorc enfin des fois",28,-30,Bac + 3,Professions intermédiaires,"A la date de l'enregistrement, est inscrit en master 1 de psychologie (master 1 qu il fait en deux ans)",Professionnel actif Animateur périscolaire,
+amorc enfin des fois",28,-30,Bac + 3,,Professions intermédiaires,"A la date de l'enregistrement, est inscrit en master 1 de psychologie (master 1 qu il fait en deux ans)",Professionnel actif Animateur périscolaire,
 25,ESLO2_ENT_1018_JR18_55.txt,"c'est Fleury-les-Aubrais là oui
 ouais
 donc en fait je suis née à Orléans
@@ -36893,7 +36893,7 @@ difficile à dire
 par contre c'est vrai que Paris c'était quand même notre point de chute euh
 nous on appréciait on avait l'impression d'être euh 
 ouais d'être moins euh 
-de profiter de d'avoir plein de choses à voir de pas tourner en rond ",55,30-60,Bac,Employés,1994 : diplôme d'éducateur (URTS Olivet),Professionnel actifAide médico psychologique,
+de profiter de d'avoir plein de choses à voir de pas tourner en rond ",55,30-60,Bac,,Employés,1994 : diplôme d'éducateur (URTS Olivet),Professionnel actifAide médico psychologique,
 26,ESLO2_ENT_1019_UI19_28.txt,"euh en fait moi je suis pas de très loin d'ici je suis de Romorantin
 je sais pas si tu connais
 ouais enfin c'est ouais c'est au sud à une heure en pleine euh en pleine Sologne
@@ -37681,7 +37681,7 @@ quoi je trouve que c'est une ville vachement
 vachement riche vachement jolie
 et euh 
 il paraît mais ça c'est euh Seb et tout qui me disent ça ceux qui sont là depuis plus longtemps 
-qu'elle a vachement ",28,-30,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,Ecole d'ingénieur,Professionnel actifIngénieur en informatique,
+qu'elle a vachement ",28,-30,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,Ecole d'ingénieur,Professionnel actifIngénieur en informatique,
 27,ESLO2_ENT_1020_XF20MER_88.txt,"quoique tu as été Grenoble
 je l'ai jamais donné hein 
 et faut que faut payer 
@@ -37885,7 +37885,7 @@ et et ils sortent leurs dents
 qu'est-ce qu'il fait des &pissous ? 
 non non 
 bah venez vous venez quand vous voulez 
-on vous fera même u-",88,60+,Non renseigné,Retraités,,,
+on vous fera même u-",88,60+,Non renseigné,,Retraités,,,
 28,ESLO2_ENT_1020_XF20_52.txt,"trente quatre ans 
 on a boug-
 non je suis née dans l'Aveyron 
@@ -38815,7 +38815,7 @@ c'est amorc assez surprenant de faire la faute
 if i were you 
 à ta place 
 hm
-",52,30-60,Bac + 4,Cadres et professions intellectuelles supérieures,Maitrise d'anglais en Civilisation américaine + CAPES d'anglais,Professeur d'angalis dans un lycée,
+",52,30-60,Bac + 4,,Cadres et professions intellectuelles supérieures,Maitrise d'anglais en Civilisation américaine + CAPES d'anglais,Professeur d'angalis dans un lycée,
 29,ESLO2_ENT_1021_XF20MER_88.txt,"trente-quatre ans
 depuis euh mille neuf cent soixante-quatorze
 le seize
@@ -40003,7 +40003,7 @@ hein
 et
 ben c'est-à-dire je je me suis trouvée dans l'Aveyron j'avais dix-sept ans
 et je suis retournée à l'école j'ai obtenu un diplôme
-oh l'éq",88,60+,,,,,
+oh l'éq",88,60+,,,,,,
 30,ESLO2_ENT_1021_XF20_52.txt,"ils étaient à &Vernet
 toi tu étais à Paris
 hm
@@ -40209,7 +40209,7 @@ il a fermé les portes ?
 NPERS
 ah oui c'est vrai il a fermé les portes
 oui
-c'est à moi maintenant ?",52,30-60,Bac + 4,Cadres et professions intellectuelles supérieures,Maitrise d'anglais en Civilisation américaine + CAPES d'anglais,Professeur d'angalis dans un lycée,
+c'est à moi maintenant ?",52,30-60,Bac + 4,,Cadres et professions intellectuelles supérieures,Maitrise d'anglais en Civilisation américaine + CAPES d'anglais,Professeur d'angalis dans un lycée,
 31,ESLO2_ENT_1022_DF22_60.txt,"tu es habitué à faire des interviews ?
 moi j'habite à Fleury-les-Aubrais
 Fleury-les-Aubrais ça doit faire euh vingt-cinq ans à peu près
@@ -41031,7 +41031,7 @@ mais j'ai pas forcément envie d'aller euh écouter du jazz euh toute l'année q
 y a le festival de jazz que j'aime beaucoup
 y a le festival de de Sully-sur-Loire au niveau de la musique classique 
 enfin bon non y a quand même beaucoup de choses moi je trouve
-bon il manque peut-être plus euh une vie nocturne avec e",60,60+,,Professions intermédiaires,,Professions intermédiaires,
+bon il manque peut-être plus euh une vie nocturne avec e",60,60+,,,Professions intermédiaires,,Professions intermédiaires,
 32,ESLO2_ENT_1023_YR23_68.txt,"ah bah moi j'y suis née
 à Fleury-les-Aubrais
 moi je suis née hein
@@ -42169,7 +42169,7 @@ vous avez toute une histoire
 qui passe sur la cathédrale
 du temps aussi bien les chevaliers que ah c'est formidable
 moi j'aime bien
-non j",68,60+,Certificat d'études,Retraités,,"Retraitéouvrière usine, vendeuse épicerie, vêtements, ATSEM",
+non j",68,60+,Certificat d'études,,Retraités,,"Retraitéouvrière usine, vendeuse épicerie, vêtements, ATSEM",
 33,ESLO2_ENT_1024_GC24_85.txt,"ah dans la maison ça fait cinquante ans
 ouais
 non
@@ -43192,7 +43192,7 @@ oh non non non
 je vois pas mais je trouve que c'est plus facile que vous nous posiez des 
 questions
 parce que c'est
-difficile sans ça",85,60+,Certificat d'études,Retraités,,Retraitémaraichère,
+difficile sans ça",85,60+,Certificat d'études,,Retraités,,Retraitémaraichère,
 34,ESLO2_ENT_1025_LF25_56.txt,"oui amorc amorc mille neuf cent quatre-vingt-trois
 octobre quatre-vingt-trois
 et avant bah chacun chez nos parents quoi
@@ -43961,7 +43961,7 @@ ah oui oui y a encore euh
 hm hm hm
 un école qui va se faire par là
 hm
-non ça va",56,30-60,Secondaire Incomplet,Employés,,Professionnel actif boulanger grande surface,
+non ça va",56,30-60,Secondaire Incomplet,,Employés,,Professionnel actif boulanger grande surface,
 35,ESLO2_ENT_1026_OW26_23.txt,"ça fait deux ans que j'habite à Orléans même
 et sinon euh
 ça va faire euh
@@ -44790,7 +44790,7 @@ pompier
 donc
 le euh je tiens au mot volontaire parce que bénévole 
 tu es pas rémunéré et volontaire on a une
-euh ce ",23,-30,Bac,Professions intermédiaires,,Animatrice périscolaire,
+euh ce ",23,-30,Bac,,Professions intermédiaires,,Animatrice périscolaire,
 36,ESLO2_ENT_1027_RW27_41.txt,"moi je suis orléanais depuis quarante ans
 vu que j'ai
 quarante ans donc je
@@ -45849,7 +45849,7 @@ qu'est-ce qui est faux euh ?
 là
 donc je peux pas en dire plus je ne sais pas
 hm
-oui et non parce q",41,30-60,Bac + 2,"Artisans, commerçants et chefs d'entreprise",,Professionnel actifcoutelier,
+oui et non parce q",41,30-60,Bac + 2,,"Artisans, commerçants et chefs d'entreprise",,Professionnel actifcoutelier,
 37,ESLO2_ENT_1028_QF28_58.txt,"donc depuis mille neuf cent quatre-vingt-six
 oui c'était euh
 une clinique euh je suis médecin hein
@@ -46682,7 +46682,7 @@ oui oui tout à fait
 peut-être
 ah
 là faudrait y réfléchir
-la manière de amorc faire des phra",58,30-60,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,,Professionnel actif gastro entérologue,
+la manière de amorc faire des phra",58,30-60,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,,Professionnel actif gastro entérologue,
 38,ESLO2_ENT_1029_WC29_54.txt,"avant euh Châteauneuf-sur-Loire un an
 avant en Bourgogne deux ans
 et avant deux ans itinérant euh un amorc amorc amorc entre euh la Bourgogne les Alpes 
@@ -47367,7 +47367,7 @@ ils tiennent beaucoup euh
 à la culture encore euh
 je pense mon-
 ça sera pas ça dans les années à venir parce que euh y a de moins en moins d'enseignants
-y en a de moins en",54,30-60,Lycée Incomplet,Professions intermédiaires,"a arrêté le lycée en terminale, est parti à Paris pour faire des études de cinémaCAP opérateur projectionnisteéquivalent bac technique cinéma","Professionnel actifsalarié du spectacle, marionnettiste réalisateur",
+y en a de moins en",54,30-60,Lycée Incomplet,,Professions intermédiaires,"a arrêté le lycée en terminale, est parti à Paris pour faire des études de cinémaCAP opérateur projectionnisteéquivalent bac technique cinéma","Professionnel actifsalarié du spectacle, marionnettiste réalisateur",
 39,ESLO2_ENT_1030_FJ30_89.txt,"voilà
 oui
 ça va vous êtes bien 
@@ -48449,7 +48449,7 @@ appareils d'oreille à
 bah j'y suis allée et j'avais besoin au
 à la mercerie
 parce que j'aime bien coudre je
-bah la grande mercerie des arcades là c'est devenu pas grand chose",89,60+,Certificat d'études,Retraités,,"Etait employée, fonctionnaire",
+bah la grande mercerie des arcades là c'est devenu pas grand chose",89,60+,Certificat d'études,,Retraités,,"Etait employée, fonctionnaire",
 40,ESLO2_ENT_1031_NX31_36.txt,"mais j'habite côté sud de Loire
 sur Olivet
 on a été
@@ -49402,7 +49402,7 @@ je trouve que déjà des fois Orléans c'est un peu stressant
 le ne serait-ce que le matin quand on passe le pont
 on met une demi-heure alors qu'il faut cinq minutes 
 avec leurs radars partout leurs ronds points partout
-donc c'est vrai q",36,30-60,Bac + 2,Employés,DUT Gestion d'entreprise et administration,Professionnel actif responsable d'un magasin de reprographie,
+donc c'est vrai q",36,30-60,Bac + 2,,Employés,DUT Gestion d'entreprise et administration,Professionnel actif responsable d'un magasin de reprographie,
 41,ESLO2_ENT_1032_FE32_69.txt,"hm hm
 alors moi je suis
 né à Saint-Jean-de-la-Ruelle
@@ -50293,7 +50293,7 @@ il est amorc il est Place du Martroi euh Place euh de la République
 donc on participe et là aussi moi je trouve que
 euh si tu veux on tient le 
 les amorc amorc une vente de vin chaud
-et là aussi on re",69,60+,Bac + 3,Autres personnes sans activité professionnelle,,Retraité,
+et là aussi on re",69,60+,Bac + 3,,Autres personnes sans activité professionnelle,,Retraité,
 42,ESLO2_ENT_1033_LK33_44.txt,"six ans
 six ans
 fin mai euh
@@ -51487,7 +51487,7 @@ pour moi aussi c'était sympa
 ma foi pour ma première fois
 j'ai trouvé ça agréable
 ah oui le
-le secours",44,30-60,Bac,"Artisans, commerçants et chefs d'entreprise",,Professionnel actifcommerce alimentaire,
+le secours",44,30-60,Bac,,"Artisans, commerçants et chefs d'entreprise",,Professionnel actifcommerce alimentaire,
 43,ESLO2_ENT_1034_LC34_45.txt,"je suis pas vraiment Orléanaise
 eu oui
 dix ans mais bon c'est pas pour autant
@@ -52242,7 +52242,7 @@ les produits phytos c'est pas une solution
 même s'ils disent que la pollution ça vient pas d'eux euh c'est pas logique qu'une ville traite
 bah
 c'est euh 
-amorc c'e",45,30-60,Bac + 2,Employés,BTS agricole,Professionnel actiftechnicienne agricole conseillere agricole,
+amorc c'e",45,30-60,Bac + 2,,Employés,BTS agricole,Professionnel actiftechnicienne agricole conseillere agricole,
 44,ESLO2_ENT_1035_FH35_68.txt,"oui je suis d'Orléans
 eux ils sont poitevins
 mais ils sont venus en vingt-neuf à Orléans
@@ -53095,7 +53095,7 @@ oh
 c'était quand même bien le tram finalement
 moi je suis pas tram parce que je me dis autrefois y avait le tram on a supprimé le tram
 pour en refaire un autre ils
-refichent tout en l'air dans dans la v",68,60+,Certificat d'études,Professions intermédiaires,,Retraitésecrétaire comptable,
+refichent tout en l'air dans dans la v",68,60+,Certificat d'études,,Professions intermédiaires,,Retraitésecrétaire comptable,
 45,ESLO2_ENT_1036_PE36_49.txt,"ben depuis mille neuf cent quatre-vingt six à peu près
 oui
 oui j'ai le questionnaire oui
@@ -53914,7 +53914,7 @@ parce que c'est quand même très particulier c'est quand même dans l'écriture
 donc voilà
 donc c'est assez c'est l'histoire qui est arrivée 
 enfin elle s'est pas fait assassinée l'auteure puisqu'elle écrit
-mais",49,30-60,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,,Professionnel actifenseigne l'anglais en école d'ingénieurs et partie pédagogique relations internat.,
+mais",49,30-60,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,,Professionnel actifenseigne l'anglais en école d'ingénieurs et partie pédagogique relations internat.,
 46,ESLO2_ENT_1037_TI37_39.txt,"oui d'accord
 alors non je suis oui voilà donc je
 je suis je ne mon commerce est euh
@@ -54885,7 +54885,7 @@ sur euh sur euh sur le site euh Internet euh
 euh essayer de
 voilà euh faire du mailing essayer de
 dynamiser aussi euh en allant euh
-en allant chercher les les clients puisqu'on est quand même dans ",39,30-60,Bac + 1,"Artisans, commerçants et chefs d'entreprise",CAP BEP Bac pro,Professionnel actifCAVISTE,
+en allant chercher les les clients puisqu'on est quand même dans ",39,30-60,Bac + 1,,"Artisans, commerçants et chefs d'entreprise",CAP BEP Bac pro,Professionnel actifCAVISTE,
 47,ESLO2_ENT_1038_AJ38_21.txt,"euh ça fait quatre ans
 bah il me semble ouais
 ouais ouais ça va faire à peu près quatre euh
@@ -55622,7 +55622,7 @@ amorc tu as ton truc euh voilà
 il fait une minute euh il fait trois minutes euh
 trois minutes quarante euh je sais pas euh
 et voilà il fera trois minutes quarante bon nous nous ça fait jamais euh c'est jamais euh pareil quoi
-un jour ça va",21,-30,Secondaire Complet ( brevet des collèges ),Employés,BEP,Professionnel actif vendeuse,
+un jour ça va",21,-30,Secondaire Complet ( brevet des collèges ),,Employés,BEP,Professionnel actif vendeuse,
 48,ESLO2_ENT_1039_RA39_67.txt,"donc depuis soixante douze
 euh donc euh avec mon mari on était euh en coopération en Algérie 
 et donc on est arrivé euh mon mari a trouvé du travail à à Orléans au BRGM et euh 
@@ -56435,7 +56435,7 @@ euh oui
 euh alors actuellement actuellement 
 donc amorc actuellement moi je suis à la retraite hein donc euh
 euh donc j'ai approfondi puisque euh amorc j'ai toujours travaillé à temps partiel 
-donc j'ai toujours mené men",67,60+,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,DESS Psychologie clinique,Retraité parcours professionel varié (secteur social),
+donc j'ai toujours mené men",67,60+,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,DESS Psychologie clinique,Retraité parcours professionel varié (secteur social),
 49,ESLO2_ENT_1040_RL40_50.txt,"quatre-vingt-un
 mille neuf cent quatre-vingt-un amorc s-
 et ben j'étais à l'école des éducateurs à Olivet
@@ -57259,7 +57259,7 @@ mais de rien
 voilà
 non mais ça euh on cite pas de nom
 non faut pas citer
-oh non mais ça c'est mais maintenant on le fait alors euh",50,30-60,Bac + 1,"Artisans, commerçants et chefs d'entreprise",,Professionnel actifCommerçant non sédentaire,
+oh non mais ça c'est mais maintenant on le fait alors euh",50,30-60,Bac + 1,,"Artisans, commerçants et chefs d'entreprise",,Professionnel actifCommerçant non sédentaire,
 50,ESLO2_ENT_1041_BC41_30.txt,"alors moi je suis à Orléans je suis euh reporter animateur à Radio France
 France Bleu euh
 France Bleu la semaine et de temps en temps sur euh France Culture
@@ -57992,7 +57992,7 @@ donc c'est pour ça que c'est intéressant
 euh non là moi les tournois que je pratique non c'est vraiment pas du vrai argent 
 c'est euh c'est gratuit
 c'est la mardi au bowling d'Olivet d'ailleurs on est mardi je vais y aller ce soir 
-ah non c'est vraiment gratuit par ",30,30-60,,Professions intermédiaires,,Professionnel actif reporter radio bleue Orléans,
+ah non c'est vraiment gratuit par ",30,30-60,,,Professions intermédiaires,,Professionnel actif reporter radio bleue Orléans,
 51,ESLO2_ENT_1042_PM42_32.txt,"ben depuis trente et un ans
 puisque je suis orléanaise
 et que j'ai trente et un ans
@@ -58494,7 +58494,7 @@ ouais
 c'est grand-mère
 qui m'a dit qu'elle mettait un peu de bière dans ses omelettes 
 donc du coup je fais la même chose
-et oui",32,30-60,Bac + 2,Autres personnes sans activité professionnelle,Bac+1 physicien de labo (trop dur a arrêté)BTS esthétique/cosmétiqueecole des visiteurs médicaux (6mois) à Paris,Autreinvalidité (bipolaire) Etait visiteuse médicale de 19 à 24 ans,
+et oui",32,30-60,Bac + 2,,Autres personnes sans activité professionnelle,Bac+1 physicien de labo (trop dur a arrêté)BTS esthétique/cosmétiqueecole des visiteurs médicaux (6mois) à Paris,Autreinvalidité (bipolaire) Etait visiteuse médicale de 19 à 24 ans,
 52,ESLO2_ENT_1043_AN43_39.txt,"donc je suis arrivée à Orléans 
 euh en septembre euh deux mille
 euh
@@ -59328,7 +59328,7 @@ parce que y a une autre technique où on rabat
 ça amorc voilà
 avec moi c'est
 voilà donc euh 
-je t'en prie",39,30-60,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,,Professionnel actif ingénieur en agriculture et environnement,
+je t'en prie",39,30-60,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,,Professionnel actif ingénieur en agriculture et environnement,
 53,ESLO2_ENT_1044_DE44_32.txt,"oui
 hm donc euh je disais depuis une vingtaine d'années en fait 
 avant cela euh j'ai amorc j'ai beaucoup déménagé voilà mais
@@ -60445,7 +60445,7 @@ enfin ça ça ça se fait évidemment pas
 après euh
 ils se balancent euh des des
 des ballons des choses comme ça dans dans les classes euh 
-euh facilem",32,30-60,Bac + 2,Professions intermédiaires,,Professionnel actif musicienne,
+euh facilem",32,30-60,Bac + 2,,Professions intermédiaires,,Professionnel actif musicienne,
 54,ESLO2_ENT_1045_PT45_50.txt,"mais je suis née à Orléans 
 hm
 oui
@@ -61319,7 +61319,7 @@ bon euh
 est-ce que c'est tout tout Orléans je pense pas parce qu'Orléans 
 bon au départ c'était c'était vrai c'était très bourgeois 
 quoi bon amorc mais après avec toute la population qui s'est concentrée 
-après ça y est peut-être moins un petit peu mo",50,30-60,Certificat d'études,Professions intermédiaires,,Professionnel actif ATSEM,
+après ça y est peut-être moins un petit peu mo",50,30-60,Certificat d'études,,Professions intermédiaires,,Professionnel actif ATSEM,
 55,ESLO2_ENT_1046_WZ46_58.txt,"depuis mille neuf cent soixante euh douze soixante-treize
 je sais plus exactement
 ouais
@@ -62333,7 +62333,7 @@ ils font
 des économies
 pour l'avenir
 c'est comme maintenant
-et on se plaint qu'on investit pas mais nous on nous fait peur sur l'avenir alors",58,30-60,Primaire,Ouvriers,,Chômeur Ajusteur (en pré retraite),
+et on se plaint qu'on investit pas mais nous on nous fait peur sur l'avenir alors",58,30-60,Primaire,,Ouvriers,,Chômeur Ajusteur (en pré retraite),
 56,ESLO2_ENT_1047_LD47_25.txt,"à Orléans ? 
 euh depuis mi juillet euh deux mille neuf
 c'est tout récent ouais ouais je suis arrivé y a 
@@ -63235,7 +63235,7 @@ bon parler garder contact avec euh les
 les gens un peu partout que je connais
 oui oui bah je sais pas si on peut les citer euh
 on peut
-vous verrez bien facebook hein celui que to",25,-30,Bac + 2,Employés,,Professionnel actifambulancier,
+vous verrez bien facebook hein celui que to",25,-30,Bac + 2,,Employés,,Professionnel actifambulancier,
 57,ESLO2_ENT_1048_YK48_24.txt,"bonjour
 d'accord
 d'accord
@@ -64265,7 +64265,7 @@ non j'aime pas l'omelette
 non j'aime pas du tout l'omelette
 ouais c'est les oeufs je pense ça passe pas très bien
 bah de rien
-Ok",24,-30,Bac + 2,Employés,,Professionnel actif technicien maintenance informatique,
+Ok",24,-30,Bac + 2,,Employés,,Professionnel actif technicien maintenance informatique,
 58,ESLO2_ENT_1049_AU49_46.txt,"d'accord ah c'est pour remmener chez eux 
 d'accord 
 et 
@@ -64920,7 +64920,7 @@ un certain nombre de questionnaires
 ouais mais par contre euh ce que je peux vous dire c'est que je suis
 entré à l'Insee parce que les maths m'intéressaient 
 mais en fait euh les seuls qui font des maths
-et qui font par exemple les méthodes amorc y a très peu de gens qui s'occu",46,30-60,Bac + 1,Employés,"Bac Bpremière année sciences eco, concours catégorie C pour rentrer à l'INSEE",Professionnel actifenquêteur et gestionnaire d'enquête auprès des entreprises,
+et qui font par exemple les méthodes amorc y a très peu de gens qui s'occu",46,30-60,Bac + 1,,Employés,"Bac Bpremière année sciences eco, concours catégorie C pour rentrer à l'INSEE",Professionnel actifenquêteur et gestionnaire d'enquête auprès des entreprises,
 59,ESLO2_ENT_1050_CM50_35.txt,"hm
 alors moi j'ai déjà un alors 
 c'est un peu long parce que 
@@ -65708,7 +65708,7 @@ ah oui ouais mais on a on a limité parce que on veut pas que
 ça amorc ouais ouais
 parce que
 je me rappelle y a y a beaucoup d'années euh enfin y a même amorc plus de cinq ans
-on acceptait beaucoup d'enfants enfin on y",35,30-60,Bac,Autres personnes sans activité professionnelle,,Professionnel actif Directeur d'association multisport,
+on acceptait beaucoup d'enfants enfin on y",35,30-60,Bac,,Autres personnes sans activité professionnelle,,Professionnel actif Directeur d'association multisport,
 60,ESLO2_ENT_1051_OG51_48.txt,"alors Orléans ça fait vingt euh amorc sept ans
 vingt sept ans que je suis à Orléans
 hm
@@ -66606,7 +66606,7 @@ avec mon Sopalin
 je bats mes oeufs dans un bol que je je sale je poivre je mets à cuire et voilà
 tout amorc enfin je pense que c'est tout simplement
 voilà 
-bah je vous en prie",48,30-60,Bac,"Artisans, commerçants et chefs d'entreprise",,Professionnel actifEsthéticienne,
+bah je vous en prie",48,30-60,Bac,,"Artisans, commerçants et chefs d'entreprise",,Professionnel actifEsthéticienne,
 61,ESLO2_ENT_1052_YQ52_89.txt,"je suis née dans le quartier des Halles
 voilà
 vous savez où vous savez
@@ -67904,7 +67904,7 @@ qui est
 mais et
 et il il voulait pas et
 et ils étaient fâchés avec ses 
-ave",89,60+,Primaire,Employés,,"Retraitée, employée Assedic",
+ave",89,60+,Primaire,,Employés,,"Retraitée, employée Assedic",
 62,ESLO2_ENT_1053_PY53_40.txt,"oui
 alors je suis domicilié à Chécy
 ouais depuis
@@ -68769,7 +68769,7 @@ j'aime pas baveuse
 oui ils aiment bien qui est baveux ouais
 y en a qui les plient euh
 voilà
-ouais",40,30-60,Bac + 2,Employés,,Professionnel actif Agent SNCF police ferroviaire,
+ouais",40,30-60,Bac + 2,,Employés,,Professionnel actif Agent SNCF police ferroviaire,
 63,ESLO2_ENT_1054_LD54_56.txt,"quand vous dites Orléans euh Orléans même ?
 ou la banlieue d'Orléans ?
 bon
@@ -69858,7 +69858,7 @@ plus d'articles de tabac ça se vend encore un tout petit peu
 pas comme y a vingt ans mais ça se vend encore
 donc on s'est fait un petit peu un rôle
 chacun une partie
-donc elle gère plutôt euh cette pa",56,30-60,Bac + 2,Etudes de mécanique,Etudes de mécanique,Buraliste,
+donc elle gère plutôt euh cette pa",56,30-60,Bac + 2,,Etudes de mécanique,Etudes de mécanique,Buraliste,
 64,ESLO2_ENT_1055_TQ55_45.txt,"c'est l'an deux-mille normalement
 donc euh on est en deux mille dix ça fait dix ans une dizaine d'années
 on cherchait autour d'Orléans
@@ -70455,7 +70455,7 @@ petit ou alors après quand ils auront une voiture mais entre les deux
 non non
 pas de problème
 faut pas tomber sur le mauvais jour
-s'est fait engueulé par son patron ",45,30-60,Secondaire Complet ( brevet des collèges ),Employés,CAP menuisier,Professionnel actif menuisier,
+s'est fait engueulé par son patron ",45,30-60,Secondaire Complet ( brevet des collèges ),,Employés,CAP menuisier,Professionnel actif menuisier,
 65,ESLO2_ENT_1056_TJ56_36.txt,"alors ce logement
 à la naissance d'Alix deux mille six
 mai deux mille six
@@ -70969,7 +70969,7 @@ voilà pas trop cuite
 donc on va vite
 voilà
 hm
-on t'en prie ",36,30-60,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,,Psychiatre,
+on t'en prie ",36,30-60,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,,Psychiatre,
 66,ESLO2_ENT_1057_UZ57_43.txt,"oui Olivet ouais
 euh depuis vingt-deux ans
 quatre-vingt-huit
@@ -71827,7 +71827,7 @@ sur tous les films qui sont exploités en France vous avez une partie de la rece
 qui va servir à faire d'autres films
 de la de prix d'une place
 euh et ça permet de faire des films euh d'art et essai des films d'auteurs ça permet de faire des films euh populaires ça permet de faire des documentaires ça permet
-tout c",43,30-60,Lycée Incomplet,Employés,,Professionnel actifagent d'accueil,
+tout c",43,30-60,Lycée Incomplet,,Employés,,Professionnel actifagent d'accueil,
 67,ESLO2_ENT_1058_BI58_36.txt,"c'est ça oui
 hm
 je suis née à Orléans
@@ -73210,7 +73210,7 @@ déjà les gens ils savent
 plus trop ce que c'est
 en tout ouais 
 en tout cas ils ne se gardent 
-bien d'ap",36,30-60,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,,Professionnel actif psychologue,
+bien d'ap",36,30-60,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,,Professionnel actif psychologue,
 68,ESLO2_ENT_1059_MC59FEM_84.txt,"alors euh
 depuis
 notre fils avait deux ans
@@ -74256,7 +74256,7 @@ voilà
 et ben c'est bien on va peut être prendre l'apéritif 
 maintenant hein 
 juste là
-ben on va se débrancher",84,60+,Bac + 2,Retraités,,Institutrice,
+ben on va se débrancher",84,60+,Bac + 2,,Retraités,,Institutrice,
 69,ESLO2_ENT_1059_MC59_81.txt,"oui
 oui bah oui
 à La Chapelle
@@ -75630,7 +75630,7 @@ que qui organisait aussi des
 voyages on avait fait des voyages
 intéressants par euh
 euh 
-avec un accompagnateur qui était intéres",81,60+,Bac,Ouvriers,CAP,Retraitémétallurgiste,
+avec un accompagnateur qui était intéres",81,60+,Bac,,Ouvriers,CAP,Retraitémétallurgiste,
 70,ESLO2_ENT_1060_YI60_41.txt,"oui
 depuis avril euh deux mille euh huit
 euh 
@@ -76990,7 +76990,7 @@ euh autant en Grande-Bretagne
 euh on voyageait beaucoup parce qu'on était en location 
 et du coup euh on faisait plein de visites c'était génial les enfants
 ont beaucoup regretté
-euh là on est on a été beau",41,30-60,Bac + 2,Autres personnes sans activité professionnelle,,Professionnel actifinfirmière,
+euh là on est on a été beau",41,30-60,Bac + 2,,Autres personnes sans activité professionnelle,,Professionnel actifinfirmière,
 71,ESLO2_ENT_1062_JP62_33.txt,"ouais
 Ormes
 ouais bah je euh
@@ -77626,7 +77626,7 @@ bien
 bien cuite
 donc euh
 je ça me gêne pas de l'oublier sur le feu
-hm",33,30-60,Bac,Employés,,Professionnel actifFactrice,
+hm",33,30-60,Bac,,Employés,,Professionnel actifFactrice,
 72,ESLO2_ENT_1063_NH63MAR_72.txt,"j'y vais là je
 je peux parler 
 non moi c'est un petit peu plus euh
@@ -79105,7 +79105,7 @@ que y a y a y a des moments
 qui sont très chauds quand même
 là-bas et tout y a des
 y a des vigiles
-y a des bon et cetera ",72,60+,Bac,Retraités,Cours complémentaire La ferté St Aubin + Ecole normale,"Retraité instituteur, professeur des écoles",
+y a des bon et cetera ",72,60+,Bac,,Retraités,Cours complémentaire La ferté St Aubin + Ecole normale,"Retraité instituteur, professeur des écoles",
 73,ESLO2_ENT_1063_NH63_68.txt,"depuis toujours
 eh bien moi je suis née à Saint-Jean-de-la-Ruelle
 ensuite j'ai habité
@@ -80019,7 +80019,7 @@ je ne sais pas je sais
 oui bah oui
 oui oui
 peut-être hein
-de ?",68,60+,Bac,Retraités,,"Retraité employée de banque, foyer, commis Rectorat",
+de ?",68,60+,Bac,,Retraités,,"Retraité employée de banque, foyer, commis Rectorat",
 74,ESLO2_ENT_1064_ZT64_76.txt,"je suis originaire de du Berry
 de
 la région de Châteauroux mon grand-père était intendant
@@ -81178,7 +81178,7 @@ voilà
 où ?
 ben
 vous savez
-la télévision je connais bien c'est un monde que je ",76,60+,Bac + 3,Retraités,,Langue(s):,Anglais
+la télévision je connais bien c'est un monde que je ",76,60+,Bac + 3,,Retraités,,Langue(s):,Anglais
 75,ESLO2_ENT_1065_RK65_74.txt,"non
 ah moi je suis native d'Orléans
 je suis Orléan-
@@ -82752,7 +82752,7 @@ commerçants
 parce qu'il y en a d'autres
 qui se 
 qui se valorisent
-mais",74,60+,Bac + 2,Cadres et professions intellectuelles supérieures,,"Retraitésecrétaire chef département scientifique, commerçante, assistante de direction",
+mais",74,60+,Bac + 2,,Cadres et professions intellectuelles supérieures,,"Retraitésecrétaire chef département scientifique, commerçante, assistante de direction",
 76,ESLO2_ENT_1066_MX66_65.txt,"alors euh nous
 on est arrivé en mille neuf cent quatre-vingts
 ouais
@@ -84025,7 +84025,7 @@ cette année on s'est pas baigné
 on était en maillot sur la plage oui
 sauf Madeleine qui s'est baignée elle vous a pas raconté ?
 ah non non 
-ju",65,60+,Certificat d'études,Retraités,,Retraitégardien de la paix,
+ju",65,60+,Certificat d'études,,Retraités,,Retraitégardien de la paix,
 77,ESLO2_ENT_1067_CL67_58.txt,"d'accord
 oui oui oui tout à fait
 alors en fait je suis arrivée pour mes études
@@ -84975,7 +84975,7 @@ je faisais déjà partie d'une chorale euh
 donc euh
 euh bon je connaissais euh déjà quand même pas mal de choses mais pour être enseignant dans des matières qu'on n'a
 qu'on qu'on
-vr",58,30-60,Bac + 3,Cadres et professions intellectuelles supérieures,,Retraitéenseignante en allemand (secondaire),
+vr",58,30-60,Bac + 3,,Cadres et professions intellectuelles supérieures,,Retraitéenseignante en allemand (secondaire),
 78,ESLO2_ENT_1068_AG68_41.txt,"oui trois ans
 ça fait trois 
 ans oui 
@@ -86345,7 +86345,7 @@ quoi en
 fait de 
 faire des courses
 c'est pas un centre-ville euh
-enfin les rues commerçante",41,30-60,Bac + 4,Cadres et professions intellectuelles supérieures,,Professionnel actifprof des écoles,
+enfin les rues commerçante",41,30-60,Bac + 4,,Cadres et professions intellectuelles supérieures,,Professionnel actifprof des écoles,
 79,ESLO2_ENT_1069_FJ944_62.txt,"depuis euh
 soixante-quinze
 j'étais à Toulouse
@@ -87818,7 +87818,7 @@ donc en trente-cinq ans j'ai dû
 pour les fêtes de Jeanne d'Arc
 une fois parce que j'avais des amis
 qui voulaient
-qui voulaie",62,60+,Bac + 5 et plus,Retraités,,géologue documentaliste,
+qui voulaie",62,60+,Bac + 5 et plus,,Retraités,,géologue documentaliste,
 80,ESLO2_ENT_1070_70LOC_37.txt,"alors je
 suis à Orléans depuis mille neuf cent quatre-vingt-dix
 alors avant je
@@ -89315,7 +89315,7 @@ alors ta journée
 bien ?
 oui merveilleuse 
 je te remercie 
-et la femme D",37,30-60,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,,animatrice culturelle au musée des Beaux Arts d'Orléans,
+et la femme D",37,30-60,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,,animatrice culturelle au musée des Beaux Arts d'Orléans,
 81,ESLO2_ENT_1071_HT398_33.txt,"ça va faire sept ans et demi
 ouais 
 je suis arrivée au mois de mars deux mille-trois
@@ -90447,7 +90447,7 @@ ben j'y allais et puis j'ai arrêté
 travail
 j'y allais 
 ben c'est moi
-c'était agréable ",33,30-60,Bac + 5 et plus,Cadres et professions intellectuelles supérieures,,Ingénieur en environnement minier,
+c'était agréable ",33,30-60,Bac + 5 et plus,,Cadres et professions intellectuelles supérieures,,Ingénieur en environnement minier,
 82,ESLO2_ENT_1075_XV383_26.txt,"bonjour
 ça fera
 quatre ans au mois de novembre
@@ -91341,7 +91341,7 @@ hm non j'ai pas de
 pas de remarques
 non
 bah je vous en prie
-plaisir partagé",26,-30,Bac + 2,Cadres et professions intellectuelles supérieures,,Traducteur,
+plaisir partagé",26,-30,Bac + 2,,Cadres et professions intellectuelles supérieures,,Traducteur,
 83,ESLO2_ENT_1076_RL437_40.txt,"euh
 décembre quatre-vingt-quinze
 à Bourges
@@ -92187,7 +92187,7 @@ moi je sais qu'on la mange on la mange rarement nature
 donc c'est ou avec des pommes de terre que je fais venir revenir dans la poêle
 ou avec du gruyère ou du jambon
 et je mets de l'huile dans ma poêle et je fais cuire mon omelette
-bah de rien ce fut un plaisir",40,30-60,Bac,,,Nourrice agréée en congé parental,
+bah de rien ce fut un plaisir",40,30-60,Bac,,,,Nourrice agréée en congé parental,
 84,ESLO2_ENT_1077_ZD198_51.txt,"alors Orléans même euh
 c'est ici ça fait 
 ça va faire quatorze ans au printemps
@@ -93652,7 +93652,7 @@ ils peuvent mettre cinq euros
 pour cinq euros par mois
 et ils ont possibilité 
 de faire davantage d'activités sur ce site
-donc elle est autori",51,30-60,Bac,Employés,Bac Pro Bureautique en formation adulte,Comptable,
+donc elle est autori",51,30-60,Bac,,Employés,Bac Pro Bureautique en formation adulte,Comptable,
 85,ESLO2_ENT_1078_ZP063_80.txt,"toujours 
 je suis née à Orléans oui
 parce que
@@ -95101,7 +95101,7 @@ et c'est c'est assez impressionnant de de
 pour les gens qui passent de voir ce
 ce cercle avec les
 et on est silencieux on a un simplement un
-un dossard euh qui explique notre action",80,60+,Bac + 1,Retraités,A suivi 1 an de cours post-bac en propédeutique,"Enseignante au cours Saint Aignan (enseignement libre) 6e-5e, puis conseillère professionnelle ANPE (fin de carrière)",
+un dossard euh qui explique notre action",80,60+,Bac + 1,,Retraités,A suivi 1 an de cours post-bac en propédeutique,"Enseignante au cours Saint Aignan (enseignement libre) 6e-5e, puis conseillère professionnelle ANPE (fin de carrière)",
 86,ESLO2_ENT_1079_HD735_71.txt,"donc nous sommes effectivement arrivés à à Orléans
 en septembre soixante-neuf
 donc ça fait quarante-deux euh
@@ -96656,7 +96656,7 @@ euh
 le soir euh
 à partir du journal
 télévisé et puis euh
-s",71,60+,Bac + 4,Retraités,Licence de sciences économiques (équivalent d'une maitrise car en 4 ans),Cadre administratif à la Direction régionale de l'équipement et à la Préfecture de région,
+s",71,60+,Bac + 4,,Retraités,Licence de sciences économiques (équivalent d'une maitrise car en 4 ans),Cadre administratif à la Direction régionale de l'équipement et à la Préfecture de région,
 87,ESLO2_ENT_1082_MX953_30.txt,"alors à Chanteau alors j'habite à Chanteau depuis
 euh août deux mille six
 et euh je suis pas de la région
@@ -97794,7 +97794,7 @@ donc j'espère que ça peut durer des années sans fumer
 c'est des amorc années de gagnées
 malheureusement
 si le journal
-",30,30-60,Secondaire Complet ( brevet des collèges ),Employés,,Agent de maitrise en pâtisserie dans un supermarché,
+",30,30-60,Secondaire Complet ( brevet des collèges ),,Employés,,Agent de maitrise en pâtisserie dans un supermarché,
 88,ESLO2_ENT_1083_SF018_32.txt,"aux Blossières ?
 dans cet appartement 
 depuis deux mille neuf
@@ -98813,7 +98813,7 @@ c'est le mari qui commandait euh
 moi j'ai jamais connu ça quoi un homme 
 je suis où là mais non mais c'est vrai
 et euh tout ça je sais bah alors
-je suis à l'origine de ça après j",32,30-60,Bac + 3,Professions intermédiaires,,Infirmière au bloc opératoire,
+je suis à l'origine de ça après j",32,30-60,Bac + 3,,Professions intermédiaires,,Infirmière au bloc opératoire,
 89,ESLO2_ENT_1084_HV753_63.txt,"euh
 cin-
 mille neuf cent
@@ -99986,7 +99986,7 @@ importante dans ce dans ce quartier en périphérie
 hein
 quartier sud euh
 quartier Saint-Marc
-y a y a des écoles euh ",63,60+,Bac,Retraités,Bac + CAP de tourneur puis formation permanente gestion humaine et administrative et sciences sociales,Retraité du domaine social (Directeur d'établissement d'hébergement et de réinsertion sociale),
+y a y a des écoles euh ",63,60+,Bac,,Retraités,Bac + CAP de tourneur puis formation permanente gestion humaine et administrative et sciences sociales,Retraité du domaine social (Directeur d'établissement d'hébergement et de réinsertion sociale),
 90,ESLO2_ENT_1085_RN488_50.txt,"hm hm
 depuis quatre-vingt-trois
 mille neuf cent amorc oui
@@ -101368,7 +101368,7 @@ c'est l'essentiel de ma vie
 oui
 je sais pas pourquoi d'ailleurs
 parce que je suis pas du tout d'une famille euh
-ma mère elle foutait les livres euh à la poubelle ",50,30-60,Secondaire Complet ( brevet des collèges ),Employés,,Femme de ménage chez particuliers,
+ma mère elle foutait les livres euh à la poubelle ",50,30-60,Secondaire Complet ( brevet des collèges ),,Employés,,Femme de ménage chez particuliers,
 91,ESLO2_ENT_1272_KG276_36.txt,"bah moi en fait euh depuis euh mille neuf cent quatre-vingt-deux bah depuis le regroupement famillial hein
 bah ça fait à peu près entre temps je suis parti un petit peu sur Saint-Jean-de-Braye
 mais je suis pas resté longtemps pour dire que bon
@@ -102095,4 +102095,390 @@ donc euh
 j'ai une très mauvaise euh
 très mauvais souvenir de cette époque-là
 et j'ai une anedocte en plus euh peut-être un petit peu glauque mais là
-",36,30-60,Lycée Incomplet,Autres personnes sans activité professionnelle,"BEP conducteur poids lourds non obtenu, formation électricien fraichement achevée",En recherche d'emploi,
+",36,30-60,Lycée Incomplet,,Autres personnes sans activité professionnelle,"BEP conducteur poids lourds non obtenu, formation électricien fraichement achevée",En recherche d'emploi,
+92,a001a.txt,"oh ben une enfance euh
+pff avec des parents euh très stricts
+j' ai eu une enfance euh
+j' étais pas malheureuse mais
+j' avais des parents euh assez sévères
+euh il fallait obéir
+et il ne fallait pas répondre
+et voilà bon ben et
+j' ai été élevée
+bien élevée ",77,60+,CEP,Primaire,Employés,,,
+93,a004a.txt,"oui
+ah ben alors mon père était officier dans la gendarmerie
+oui euh
+je suis le dernier d' une famille de sept enfants
+voilà
+très peu très peu comme je suis né euh
+j' ai une soeur qui a vingt-cinq ans de plus que moi voilà
+donc j' ai été le petit dernier
+",83,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+94,a005a.txt,"oui
+ah ben alors mon père était officier dans la gendarmerie
+oui euh
+je suis le dernier d' une famille de sept enfants
+voilà
+très peu très peu comme je suis né euh
+j' ai une soeur qui a vingt-cinq ans de plus que moi voilà
+donc j' ai été le petit dernier
+",60,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+95,a007a.txt,"l' enfance eh bien je suis née
+euh dans un quartier je suis née dans la maison de mon grand-père euh à rue des Beaumont
+mais je n' y suis pas restée longtemps à Orléans parce que mon père travaillait à Paris au moment de la guerre
+alors je s(uis) en on on",84,60+,BE,Niveau 3 (CAP-DNB),Employés,,,
+96,a008a.txt,"ben amorc
+posez-moi les questions puis (je) vous répondrai si
+amorc enfin
+mes mon père a hérité de de l' atelier de son son père alors donc euh
+mon amorc mon grand-père était maréchal-ferrant
+vous savez ce que c' est
+et je l' ai pas connu
+j' ai connu ma g",84,60+,CEP,Primaire,Ouvriers,,,
+97,a009a.txt,"euh commencer par l' enfance alors
+oh alors là
+qu' est-ce que je vais bien vous dire
+donc je suis né en mille-neuf-cent-vingt-cinq hein
+donc à Pussay là où
+euh Pussay donc le où je vous ai dit
+c' était un Pussay
+c' était un grand bourg de
+de mille-sept-ce",80,60+,CEP,Primaire,Professions intermédiaires,,,
+98,a010a.txt,"mais
+qu' est-ce que je euh on entend là ?
+souvenirs de l' enfance eh bien mon Dieu ils sont
+comment dirais-je
+pas tout à fait
+agréables
+pour la bonne raison c' est que
+à amorc à ma euh à ma naissance
+ma maman
+a été malade
+si bien qu' on m' a enlevée de ma",75,60+,CEP,Primaire,Professions intermédiaires,,,
+99,a011a.txt,"oui
+comment ?
+oui
+et en général écoutez j' ai oh
+savez alors comme je suis née là
+tout auprès de la Loire parce que j' avais un grand-père qui avait un commerce
+sur les quais
+et mes premières promenades ça a été
+sur (les) rives de Loire sûrement
+j' ai tou",96,60+,BE,Niveau 3 (CAP-DNB),Employés,,,
+100,a012a.txt,"souvenirs de
+moi j' ai vécu à la campagne hein surtout
+à partir de j' ai peu de souvenirs
+(en)fin c' est des souvenirs très personnels que j' ai
+avec mes parents
+non non non non
+je les ai justement j' ai pas connu
+aucun grand-père aucun grand-amorc
+j' ai ",84,60+,CEP,Primaire,Cadres et professions intellectuelles supérieures,,,
+101,a013a.txt,"alors l' enfance
+mes souvenirs d' enfance
+spontané bon
+on lirons on lira ça après
+alors euh mes souvenirs d' enfance euh je suis l' aînée de sept enfants
+déjà
+hein
+je suis l' aînée de sept enfants
+à peu près euh de deux ans en deux ans
+hein
+et j' ai eu qu",92,60+,CEP,Primaire,Professions intermédiaires,,,
+102,a014a.txt,"bon j' ai des bons souvenirs
+j' habitais donc dans ce
+ce pays de Meung-sur-Loire qui était un chef-lieu de canton
+donc qui amorc l' avant(tage) l' avantage d' être
+une ville moyenne
+et en même temps euh pas trop campagne quoi
+il y avait sur place tous les",90,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+103,a015a.txt,"anon
+hm?
+magnifiques
+magnifiques oui j' ai j' ai été une petite fille gâtée une petite fille heureuse
+euh mon père travaillait bien sûr mais ma mère était à la maison
+et
+jusqu' à la guerre ça a été
+le rêve
+ah c' est oui un rêve éveillé hein
+c' est vrai un",88,60+,BE,Niveau 3 (CAP-DNB),Employés,,,
+104,a016a.txt,"et d'accord
+on commence toujours avec l' enfance
+vos souvenirs d' enfance c' est c' est ils sont comment
+en général
+alors
+je suis l' aînée d' une fratrie
+de où nous étions quatre enfants
+euh moi j' ai eu une enfance euh je vais dire heureuse
+dans la mesur",81,60+,BAC,Niveau 4 (BAC),Professions intermédiaires,,,
+105,a017a.txt,"tout dépend de quelle enfance il s' agit
+de ma toute petite enfance euh je n' ai pas de mauvais souvenirs
+jusqu' à l' âge euh de sept ans où hélas euh mon père est a été mobilisé et a été fait prisonnier est resté en captivité si bien que je ne l' ai revu",83,60+,BAC,Niveau 4 (BAC),Professions intermédiaires,,,
+106,a018a.txt,"anon
+ah mes souvenirs d' enfance
+ah beh je vais peut-être vous étonner
+mais dans le pays du vin mon premier souvenir c' est un souvenir de chemin de fer
+chemin de fer départemental qui traversait la ville
+euh c' était un chemin de fer à vapeur qui partait",86,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+107,a020a.txt,"ha
+c'est-à-dire
+ah ben c' est c'est-à-dire que
+bon mes parents ont pas mal déménagé
+donc ils ont habité à la campagne d'abord puis après dans une
+après dans une euh
+dans une dans une ville
+alors bon ben ça a été
+ça a pu être différent quoi mais
+euh je voi",56,60+,BAC,Niveau 4 (BAC),"Artisans, commerçants et chefs d'entreprise",,,
+108,a022a.txt,"amorc mes souvenirs d' enfance par rapport à la guerre j' y étais pas hein
+mes souvenirs d' enfance moi je
+je suis euh Orléanaise euh née à Orléans euh
+euh orpheline de père
+j' avais un père militaire euh qui est décédé euh dans un accident d' avion
+donc ",49,60+,BAC,Niveau 4 (BAC),"Artisans, commerçants et chefs d'entreprise",,,
+109,a023a.txt,"anon
+alors les souvenirs
+de quelle nature
+la famille
+eh bien moi je suis né euh dans une famille euh
+rurale
+de campagne
+les grands-parents étaient cultivateurs
+les grands-parents étaient cultivateurs
+et j' ai passé une partie de mon enfance
+en Beauce
+c' e",90,60+,BE,Niveau 3 (CAP-DNB),Professions intermédiaires,,,
+110,a024a.txt,"mes souvenirs d' enfance
+donc je suis née à
+et j' ai quitté cet endroit à vingt-deux ans quand je me suis mariée
+alors mes souvenirs d' enfance chez moi
+euh
+ben jusqu' à la guerre là j' étais toujours chez mes parents
+qui étaient cultivateurs
+c' était pas",84,60+,CEP,Primaire,Employés,,,
+111,a025a.txt,"oh la j' en ai des souvenirs d' enfance
+j' en ai beaucoup
+beaucoup beaucoup beaucoup
+je vous dis je suis née donc à
+mon père étant douanier
+à la frontière suisse euh une petite localité que j' ai quittée j' avais l' âge j' avais cinq ans
+mais j' en ai de ",96,60+,BE,Niveau 3 (CAP-DNB),NONE,,,
+112,a026a.txt,"euh du temps du bonheur ou du temps de l' épreuve ?
+les deux ?
+les deux ?
+oh ben des souvenirs d' enfance j' ai eu une enfance extrêmement heureuse
+euh à la fois parisienne et
+campagnarde
+est-ce que ça enregistre là ?
+oui ?
+et alors euh bon eh bien j' ai ",88,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+113,a027a.txt,"souvenirs d' enfance ?
+ah
+le premier souvenir c' est un souvenir
+euh musical puisque (vous) voulez le savoir
+d' après le le ce souvenir-là moi moi je m' en souviens comme d' une musique
+qu' il y avait à la hauteur de mon oreille droite
+très forte
+et que j",86,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+114,a028a.txt,"oui bah bien sûr
+j' ai j' ai passé mon enfance euh dans ce village-là
+je suis repartie de ce village-là j' avais dix-huit ans
+alors voyez je suis née euh là dans ce petit patelin
+et puis j' y suis restée jusqu' à dix-huit ans
+alors là mais mon amorc mais ",84,60+,CEP,Primaire,Employés,,,
+115,a029a.txt,"vos souvenirs d' enfance ils sont comment
+les souvenirs d' enfance
+merveilleux
+mon père travaillait dans une entreprise de travaux publiques
+ma mère
+était
+jeune institutrice et n' a recommencé à travailler que vers l' âge de quarante ans
+et elle a repris
+",77,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+116,a030a.txt,"?
+NPp
+c' est c' est d' origine italienne oui
+en fait je suis d' origine corse
+mais mon le grand-père de mon grand-père
+est est amorc est a émigré d' Italie vers la Corse
+vers dix-huit-cent-cinquante
+à Paris
+quarante-sept mille-neuf-cent-quarante-sept
+NUM
+",68,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+117,a031a.txt,"eh bien mes parents étaient très pauvres
+nous étions
+cinq dans deux pièces
+mon papa était
+vendeur
+dans un magasin de vêtements
+et ma mère repassait du linge
+pour les bourgeois de la ville
+il est évident que le régime de la maison
+était extrêmement modeste",92,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+118,a032a.txt,"c'est-à-dire ah ben très bons
+j' ai j' ai été élevée par des parents supers
+alors euh j' ai pas j' ai pas de pro(blèmes)j' ai jamais eu de problèmes
+autrement qu' est-ce que vous voulez je vous dise euh
+j' avais des parents qui s' occupaient qui étaient e",86,60+,CEP,Primaire,Agriculteurs exploitants,,,
+119,a034a.txt,"mm
+oui j' ai de très bons souvenirs de mon enfance
+parce que d'abord j' avais des parents qui nous aimaient beaucoup
+et
+qui ont fait on était
+six enfants
+mais mes parents ils ont fait tout ce qu' ils pouvaient pour nous rendre heureux
+alors j' ai de très ",87,60+,CEP,Primaire,Professions intermédiaires,,,
+120,a037a.txt,"d' enfance
+alors euh
+il faut les remonter loin ?
+ou aussi loin que je me rappelle
+alors je me rappelle j' avais deux ans et demi
+mais parce que ça avait été un petit peu violent
+en ce sens que
+j' ai été
+opérée de l' appendicite euh en urgence
+donc c' est ",89,60+,CEP,Primaire,Ouvriers,,,
+121,a038a.txt,"anon
+anon
+anon
+ha le
+NUM
+je suis républicain comme c' est pas permis
+tous les ans j' ai chance  on tire le feu d' artifice pour mon anniversaire
+je vous écoute
+mes souvenirs d' enfance
+oh là mais c' est très très euh dispersé parce que je suis né à Paris ",76,60+,CEP,Primaire,Ouvriers,,,
+122,a041a.txt,"anon
+ben j' avais qu' un frère
+et mes parents étaient en culture
+alors ils faisaient de la vigne
+des pommes de terre
+un peu de
+céréales
+on n' a jamais été très riches
+puis après je me suis mariée avec un mari
+c' est pareil mon mari était de culture aussi
+",79,60+,CEP,Primaire,Agriculteurs exploitants,,,
+123,a042a.txt,"anon
+j' entends pas bien
+l' enfance ?
+ah oui
+amorc l' enfance
+à la campagne
+à la campagne
+en pleine campagne en Beauce
+je suis l' aînée de dix
+ils ils amorc étaient
+petits cultivateurs
+là euh en Beauce
+ils avaient très peu de terre
+alors ils tiraient le d",84,60+,BAC,Niveau 4 (BAC),Professions intermédiaires,,,
+124,a043a.txt,"anon
+aucun
+en Allemagne ?
+aucun
+je suis né et mes parents ont déménagé euh toute de suite
+donc je suis j' ai dû y rester à Neustadt euh un mois je crois
+et après on est parti dans le nord de la France sur euh à Dunkerque
+donc euh Dunkerque jusqu' en soixa",45,60+,BAC,Niveau 4 (BAC),Employés,,,
+125,a044a.txt,"anon
+mes souvenirs d' enfance ?
+ah mes souvenirs d' enfance c' est
+ils commencent surtout à
+surtout à Nancy
+euh parce que
+mon père était fonctionnaire était militaire
+nous nous promenions tout le temps
+nous (avons) fait beaucoup de de voyages
+alors quels ",82,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+126,a045a.txt,"c' est trop vaste comme question
+c' est trop important hein
+faut préciser un peu
+je suis né à Selles-sur-Cher
+mon père était maçon
+et
+il était il avait été blessé gravement à la guerre de mille-neuf-cent-quatorze
+et donc il a
+il est mort lorsque j' avais ",90,60+,BAC,Niveau 4 (BAC),Professions intermédiaires,,,
+127,a046a.txt,"anon
+euh assez ternes ah un peu tristes
+je vivais en banlieue parisienne avec des parents commerçants qui étaient très très occupés par leur commerce
+et je me suis un peu ennuyée
+hm
+et en banlieue parisienne c' était ça n' était pas très beau
+l' environne",84,60+,BE,Niveau 3 (CAP-DNB),Employés,,,
+128,a047a.txt,"anon
+oui
+alors euh je sais que ma famille est d' origine
+du pays de Bade
+dans la vallée de la Kinzig Kinzigtal et que elle a émigré elle est venue en France après la Révolution_française autour des années dix-huit-cents après l' époque napoléonienne
+auprè",85,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+129,a048a.txt,"mais je crois que les souvenirs d' enfance sont sont très très partiels
+je me rends compte que le ce qu' on m' avait
+parce que je suis l' aîné on a on est cinq frères
+et euh souvent euh pour des raisons diverses euh parce que euh on n' a pas vécu tout à f",80,60+,BE,Niveau 3 (CAP-DNB),Employés,,,
+130,a049a.txt,"les souvenirs d' enfance
+immédiatement comme ça une institutrice que j' ai eue quelques mois
+euh je devais avoir sept ans quelque chose comme ça
+assise sur le pas de la porte de l' école euh attentive chaleureuse enfin euh
+comme ça
+c' est tout
+premier sou",84,60+,BE,Niveau 3 (CAP-DNB),Employés,,,
+131,a050a.txt,"ils sont ben ils sont heureux gais
+(une) enfance euh heureuse
+parents qui s' entendaient bien euh
+pas de problème
+qu' est-ce que je peux dire
+j' ai une soeur
+j' ai une soeur euh
+oui
+m(on) euh mon père travaillait pas ma mère
+mon père euh était euh CRS
+il ",74,60+,BE,Niveau 3 (CAP-DNB),Employés,,,
+132,a051a.txt,"remarquables et dramatiques
+remarquables parce que je suis né dans une famille
+vraiment une famille solide avec des parents
+très éthiques en tout
+mon père était un monsieur qui à dix-sept ans
+en mille-neuf-centquatorze préparait un prix de Rome
+son amorc ",79,60+,CEP,Primaire,Cadres et professions intellectuelles supérieures,,,
+133,a052a.txt,"euh vous vous voulez un un qualificatif ou des des détails
+comment ils sont ?
+heureux heureux
+j' ai
+j' ai trois enfin en fait j' ai trois frères mais
+plus particulièrement j' ai un frère aîné
+moi je suis la deuxième
+j' ai un autre frère derrière
+et encore",71,60+,BAC,Niveau 4 (BAC),Employés,,,
+134,a053a.txt,"me ?
+à quel point de vue ?
+ben c'est-à-dire que je suis un fils d' enseignant
+donc j' ai toujours été dans les écoles
+mes parents étaient instituteurs donc euh
+je toujours ai vécu dans l' école pratiquement
+donc euh
+des souvenirs d' enfance euh j' étais
+j",88,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
+135,a054a.txt,"anon
+merveilleux
+c' était à la campagne
+j' habitais à la campagne
+euh
+mes parents amorc n' étaient que des c' était un ouvrier hein mon père
+alors je sais pas si vous connaissez les Ardennes mais c' est un pays tr(ès)
+c' est au bord de la Meuse
+c' était q",87,60+,BE,Niveau 3 (CAP-DNB),Employés,,,
+136,a055a.txt,"mes souvenirs d' enfance ?
+bah euh mes amorc jusqu' à quel âge vous appelez
+l' enfance oui
+ben mes souvenirs d' enfance c' est être écolière avoir mes parents euh une la maladie de ma mère qui a été malade alors que j' étais jeune qui a eu un cancer
+et be",81,60+,BAC,Niveau 4 (BAC),Professions intermédiaires,,,
+137,a056a.txt,"euh bien ma foi
+euh rien de très marquant
+je je trouve que globalement
+euh jusqu' à dix ans j' ai vécu à Olivet où mes parents étaient instituteurs euh assez ternes finalement
+euh c' est plus tard que en ai bénéficié de Jargeau
+mais de jusqu' à dix ans eu",89,60+,BAC,Niveau 4 (BAC),Cadres et professions intellectuelles supérieures,,,
