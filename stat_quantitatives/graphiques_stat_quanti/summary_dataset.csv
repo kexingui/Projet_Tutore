@@ -1,7 +1,0 @@
-"","      ID","  filename","  content","   age_loc","classe_nouv","niveau_etude","   INSEE","Commentaire.études","Profession.en.termes.propres"," Unnamed..9"
-"","Min.   :  7.00  ","Length:122        ","Length:122        ","Min.   :12.00  ","Length:122        ","Length:122        ","Length:122        ","Length:122        ","Length:122        ","Length:122        "
-"","1st Qu.: 37.25  ","Class :character  ","Class :character  ","1st Qu.:18.25  ","Class :character  ","Class :character  ","Class :character  ","Class :character  ","Class :character  ","Class :character  "
-"","Median : 67.50  ","Mode  :character  ","Mode  :character  ","Median :36.00  ","Mode  :character  ","Mode  :character  ","Mode  :character  ","Mode  :character  ","Mode  :character  ","Mode  :character  "
-"","Mean   : 66.22  ",NA,NA,"Mean   :40.26  ",NA,NA,NA,NA,NA,NA
-"","3rd Qu.: 96.75  ",NA,NA,"3rd Qu.:57.50  ",NA,NA,NA,NA,NA,NA
-"","Max.   :121.00  ",NA,NA,"Max.   :89.00  ",NA,NA,NA,NA,NA,NA
