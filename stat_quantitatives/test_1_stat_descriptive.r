@@ -10,7 +10,7 @@ data <- read.csv(file.choose(), header=TRUE, sep = ",")
 
 head(data)
 sum <- summary(data)
-#write.csv(sum, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/summary_dataset.csv", row.names = TRUE)
+write.csv(sum, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/summary_dataset.csv", row.names = TRUE)
 
 
 # PARTIE 1 : STATISTIQUES QUANTITATIVES SIMPLES
@@ -32,7 +32,7 @@ data_tranche_age_df <- as.data.frame(data_tranche_age)
 colnames(data_tranche_age_df)[colnames(data_tranche_age_df) == "Var1"] <- "tranche_age"
 data_tranche_age_df$Percentage <- round((data_tranche_age_df$Freq / sum(data_tranche_age_df$Freq)) * 100)
 data_tranche_age_df
-#write.csv(sum, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_%_tranche_age.csv", row.names = TRUE)
+write.csv(sum, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_%_tranche_age.csv", row.names = TRUE)
 
 pie_chart <- ggplot(data_tranche_age_df, aes(x = "", y = Percentage, fill = tranche_age)) +
   geom_bar(width = 1, stat = "identity") +
@@ -52,7 +52,7 @@ print(pie_chart)
 
 # La répartition des locuteurs en fonction du niveau d'étude
 
-data_niveau_etude <- table(data$niveau_etude)
+data_niveau_etude <- table(data$niveau_etude_normalise)
 data_niveau_etude
 data_niveau_etude_df <- as.data.frame(data_niveau_etude)
 colnames(data_niveau_etude_df)[colnames(data_niveau_etude_df) == "Var1"] <- "Niveau d'études"
@@ -60,11 +60,11 @@ colnames(data_niveau_etude_df)[colnames(data_niveau_etude_df) == "Var1"] <- "Niv
 # Petit nettoyage et regroupement des données
 data_niveau_etude_df$`Niveau d'études` <- tolower(data_niveau_etude_df$`Niveau d'études`)
 data_niveau_etude_df$`Niveau d'études` <- trimws(data_niveau_etude_df$`Niveau d'études`)
-data_niveau_etude_df$`Niveau d'études` <- gsub("(\\b4ème\\b|\\b5ème\\b|\\b3ème\\b|\\btroisième\\b|\\btroisieme\\b|\\b4eme\\b|\\b3eme\\b)", "collège", data_niveau_etude_df$`Niveau d'études`)
-data_niveau_etude_df$`Niveau d'études` <- gsub("lycéen|terminale|terminal", "lycée", data_niveau_etude_df$`Niveau d'études`)
-data_niveau_etude_df$`Niveau d'études` <- gsub(".*\\lycée\\b.*", "lycée", data_niveau_etude_df$`Niveau d'études`)
-data_niveau_etude_df$`Niveau d'études` <- gsub(".*\\bcollèges?\\b.*", "collège", data_niveau_etude_df$`Niveau d'études`)
-data_niveau_etude_df$`Niveau d'études` <- trimws(data_niveau_etude_df$`Niveau d'études`)
+# data_niveau_etude_df$`Niveau d'études` <- gsub("(\\b4ème\\b|\\b5ème\\b|\\b3ème\\b|\\btroisième\\b|\\btroisieme\\b|\\b4eme\\b|\\b3eme\\b)", "collège", data_niveau_etude_df$`Niveau d'études`)
+# data_niveau_etude_df$`Niveau d'études` <- gsub("lycéen|terminale|terminal", "lycée", data_niveau_etude_df$`Niveau d'études`)
+# data_niveau_etude_df$`Niveau d'études` <- gsub(".*\\lycée\\b.*", "lycée", data_niveau_etude_df$`Niveau d'études`)
+#data_niveau_etude_df$`Niveau d'études` <- gsub(".*\\bcollèges?\\b.*", "collège", data_niveau_etude_df$`Niveau d'études`)
+#data_niveau_etude_df$`Niveau d'études` <- trimws(data_niveau_etude_df$`Niveau d'études`)
 
 # Regroupement
 data_niveau_etude_df <- data_niveau_etude_df %>%
@@ -74,7 +74,7 @@ data_niveau_etude_df <- data_niveau_etude_df %>%
 # On ajoute la colonne pourcentage
 data_niveau_etude_df$Percentage <- round((data_niveau_etude_df$Freq / sum(data_niveau_etude_df$Freq)) * 100)
 
-#write.csv(data_niveau_etude_df, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_%_niveau_etude.csv", row.names = TRUE)
+write.csv(data_niveau_etude_df, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_%_niveau_etude.csv", row.names = TRUE)
 
 # On visualise le camembert
 pie_chart <- ggplot(data_niveau_etude_df, aes(x = "", y = Percentage, fill = `Niveau d'études`)) +
@@ -114,10 +114,10 @@ colnames(data_cate_pro_df)[colnames(data_cate_pro_df) == "Var1"] <- "Catégorie 
 # Petit nettoyage et regroupement des données
 data_cate_pro_df$`Catégorie socio-pro` <- tolower(data_cate_pro_df$`Catégorie socio-pro`)
 data_cate_pro_df$`Catégorie socio-pro` <- trimws(data_cate_pro_df$`Catégorie socio-pro`)
-data_cate_pro_df$`Catégorie socio-pro` <- gsub("etudiante?|\\bétudiant.\\b", "étudiant", data_cate_pro_df$`Catégorie socio-pro`)
-data_cate_pro_df$`Catégorie socio-pro` <- gsub(".*\\chômage\\b.*|autres personnes sans activité professionnelle", "chômeur", data_cate_pro_df$`Catégorie socio-pro`)
-data_cate_pro_df$`Catégorie socio-pro` <- gsub(".*\\bcollégienn?e?\\b.*", "collègien", data_cate_pro_df$`Catégorie socio-pro`)
-data_cate_pro_df$`Catégorie socio-pro` <- trimws(data_cate_pro_df$`Catégorie socio-pro`)
+#data_cate_pro_df$`Catégorie socio-pro` <- gsub("etudiante?|\\bétudiant.\\b", "étudiant", data_cate_pro_df$`Catégorie socio-pro`)
+#data_cate_pro_df$`Catégorie socio-pro` <- gsub(".*\\chômage\\b.*|autres personnes sans activité professionnelle", "chômeur", data_cate_pro_df$`Catégorie socio-pro`)
+#data_cate_pro_df$`Catégorie socio-pro` <- gsub(".*\\bcollégienn?e?\\b.*", "collègien", data_cate_pro_df$`Catégorie socio-pro`)
+#data_cate_pro_df$`Catégorie socio-pro` <- trimws(data_cate_pro_df$`Catégorie socio-pro`)
 
 data_cate_pro_df
 
@@ -172,7 +172,7 @@ print(histogramme)
 #########################
 
 # Visualisation de l'âge en fonction du niveau d'étude (peu lisible)
-ggplot(data, aes(x = age_loc, y = 1, color = niveau_etude)) +
+ggplot(data, aes(x = age_loc, y = 1, color = niveau_etude_normalise)) +
   geom_point(position = position_jitter(height = 0.5), size = 3) +
   labs(title = "Distribution du niveau d'éducation en fonction de l'âge",
        x = "Age", y = "") +
@@ -180,22 +180,22 @@ ggplot(data, aes(x = age_loc, y = 1, color = niveau_etude)) +
   theme(axis.text.y = element_blank(), axis.ticks.y = element_blank())
 
 # Nettoyage et normalisation des données
-data$niveau_etude <- tolower(data$niveau_etude)
-data$niveau_etude <- trimws(data$niveau_etude)
-data$niveau_etude <- gsub("(\\b4ème\\b|\\b5ème\\b|\\b3ème\\b|\\btroisième\\b|\\btroisieme\\b|\\b4eme\\b|\\b3eme\\b)", "collège", data$niveau_etude)
-data$niveau_etude <- gsub("lycéen|terminale|terminal", "lycée", data$niveau_etude)
-data$niveau_etude <- gsub(".*\\lycée\\b.*", "lycée", data$niveau_etude)
-data$niveau_etude <- gsub(".*\\bcollèges?\\b.*", "collège", data$niveau_etude)
-data$niveau_etude <- trimws(data$niveau_etude)
+data$niveau_etude <- tolower(data$niveau_etude_normalise)
+data$niveau_etude <- trimws(data$niveau_etude_normalise)
+#data$niveau_etude <- gsub("(\\b4ème\\b|\\b5ème\\b|\\b3ème\\b|\\btroisième\\b|\\btroisieme\\b|\\b4eme\\b|\\b3eme\\b)", "collège", data$niveau_etude)
+#data$niveau_etude <- gsub("lycéen|terminale|terminal", "lycée", data$niveau_etude)
+#data$niveau_etude <- gsub(".*\\lycée\\b.*", "lycée", data$niveau_etude)
+#data$niveau_etude <- gsub(".*\\bcollèges?\\b.*", "collège", data$niveau_etude)
+#data$niveau_etude <- trimws(data$niveau_etude)
 
 # Tableau croisé entre tranche d'âge et niveau d'étude
-cross_table <- table(data$classe_nouv, data$niveau_etude)
+cross_table <- table(data$classe_nouv, data$niveau_etude_normalise)
 print(cross_table)
-#write.csv(cross_table, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_tranche_age_x_niveau_etude.csv", row.names = TRUE)
+write.csv(cross_table, "./COURS/Master_NLP/COURS/M2/S2/projet_tuteure/graphiques_stat_quanti/data_tranche_age_x_niveau_etude.csv", row.names = TRUE)
 cross_table_df <- as.data.frame(cross_table)
-colnames(cross_table_df) <- c("tranche_age", "niveau_etude", "Freq")
+colnames(cross_table_df) <- c("tranche_age", "niveau_etude_normalise", "Freq")
 
-ggplot(cross_table_df, aes(x = niveau_etude, y = tranche_age, fill = Freq)) +
+ggplot(cross_table_df, aes(x = niveau_etude_normalise, y = tranche_age, fill = Freq)) +
   geom_tile(color = "white") +
   scale_fill_gradient(low = "white", high = "purple") +
   labs(title = "Tableau croisé du niveau d'étude en fonction des tranches d'âge",
@@ -230,10 +230,10 @@ ggplot(data, aes(x = age_loc, y = 1, color = INSEE)) +
 # Nettoyage et normalisation des données
 data$INSEE <- tolower(data$INSEE)
 data$INSEE <- trimws(data$INSEE)
-data$INSEE <- gsub("etudiante?|\\bétudiant.\\b", "étudiant", data$INSEE)
-data$INSEE <- gsub(".*\\chômage\\b.*|autres personnes sans activité professionnelle", "chômeur", data$INSEE)
-data$INSEE <- gsub(".*\\bcollégienn?e?\\b.*", "collègien", data$INSEE)
-data$INSEE <- trimws(data$INSEE)
+#data$INSEE <- gsub("etudiante?|\\bétudiant.\\b", "étudiant", data$INSEE)
+#data$INSEE <- gsub(".*\\chômage\\b.*|autres personnes sans activité professionnelle", "chômeur", data$INSEE)
+#data$INSEE <- gsub(".*\\bcollégienn?e?\\b.*", "collègien", data$INSEE)
+#data$INSEE <- trimws(data$INSEE)
   
 cross_table_insee <- table(data$classe_nouv, data$INSEE)
 print(cross_table_insee)
@@ -269,4 +269,4 @@ pie_charts <- lapply(split(cross_table_insee_df, cross_table_insee_df$tranche_ag
 })
 
 # Affichage des pie charts
-pie_charts[2]
+#pie_charts[2]
