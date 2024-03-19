@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>intermédiaires</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>98</ID>
+  <IDQES>dataset_complet/dataset_complet_000041.xml</IDQES>
+  <INSEE>Professions</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <age_loc>75</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>mais qu' est-ce que je euh on entend là ? souvenirs de l' enfance eh bien mon Dieu ils sont comment dirais-je pas tout à fait agréables pour la bonne raison c' est que à amorc à ma euh à ma naissance ma maman a été malade si bien qu' on m' a enlevée de ma</content>
+  <filename>a010a.txt</filename>
+  <niveau_etude>CEP</niveau_etude>
+  <niveau_etude_normalise>Primaire</niveau_etude_normalise>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;mais qu&amp;apos: est-ce que je euh on entend là ? souvenirs de l&amp;apos: enfance eh bien mon Dieu ils &lt;SentimentUncategorized&gt;sont comment dirais&lt;/SentimentUncategorized&gt;-je pas tout à fait &lt;Sentiment&gt;agréables&lt;/Sentiment&gt; pour la &lt;Sentiment&gt;bonne&lt;/Sentiment&gt; raison c&amp;apos: est que à amorc à ma euh à ma naissance ma &lt;JobTitle&gt;maman&lt;/JobTitle&gt; a été &lt;Sentiment&gt;malade&lt;/Sentiment&gt; si bien qu&amp;apos: on m&amp;apos: a enlevée de ma&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_JobTitle>Maman</QES_JobTitle>
+  <QES_Sentiment>Agréables;Bonne;Malade</QES_Sentiment>
+  <QES_SentimentForce>0</QES_SentimentForce>
+  <QES_SentimentUncategorized>Sont Comment Dirais</QES_SentimentUncategorized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

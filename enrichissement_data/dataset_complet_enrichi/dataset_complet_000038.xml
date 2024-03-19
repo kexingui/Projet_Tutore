@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(CAP-DNB)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>99</ID>
+  <IDQES>dataset_complet/dataset_complet_000038.xml</IDQES>
+  <INSEE>3</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <age_loc>96</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>oui comment ? oui et en général écoutez j' ai oh savez alors comme je suis née là tout auprès de la Loire parce que j' avais un grand-père qui avait un commerce sur les quais et mes premières promenades ça a été sur (les) rives de Loire sûrement j' ai tou</content>
+  <etudes>Employés</etudes>
+  <filename>a011a.txt</filename>
+  <niveau_etude>BE</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <QES_Coldconcept>Rives de loire</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;oui comment ? oui et en &lt;JobTitle&gt;général&lt;/JobTitle&gt; écoutez j&amp;apos: ai oh savez alors comme je suis née là tout auprès de &lt;Relation&gt;la &lt;Relation&gt;Loire parce que j&amp;apos: avais un grand-père qui avait un commerce sur les quais et mes &lt;Unlocalized&gt;premières promenades&lt;/Unlocalized&gt;&lt;/Relation&gt;&lt;/Relation&gt; ça a été sur (les) &lt;Coldconcept&gt;rives de &lt;Location&gt;Loire&lt;/Location&gt;&lt;/Coldconcept&gt; sûrement j&amp;apos: ai tou&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_JobTitle>Général</QES_JobTitle>
+  <QES_Location>La Loire;Loire</QES_Location>
+  <QES_Relation>Type|Unknown|Category|Avoir|Ontology|None|Keyword|parce que j' avais un grand-père qui avait un commerce sur les quais et mes|Sentiment_Force|0|Confidence|0.07|Source_Type|Location|Source_Text|La Loire|Source_Text_Original|La Loire|Source_Topic|False|Source_Ontology|Qta|Source_Category|None|Source_Category_1|None|Destination_Type|Unlocalized|Destination_Text|Premières Promenades|Destination_Text_Original|Premières Promenades|Destination_Topic|False|Destination_Ontology|Rule|Destination_Category|None|Destination_Category_1|None|Text|la Loire parce que j' avais un grand-père qui avait un commerce sur les quais et mes premières promenades|Sentence|oui et en général écoutez j' ai oh savez alors comme je suis née là tout auprès de la Loire parce que j' avais un grand-père qui avait un commerce sur les quais et mes premières promenades ça a été sur (les) rives de Loire sûrement j' ai tou|Number|un|Location|Loire;Type|Unknown|Category|Avoir|Ontology|None|Keyword|parce que j' avais un grand-père qui avait un commerce sur les quais et mes|Sentiment_Force|0|Confidence|0.07|Source_Type|Uppers|Source_Text|Loire|Source_Text_Original|Loire|Source_Topic|False|Source_Ontology|Rule|Source_Category|None|Source_Category_1|None|Destination_Type|Unlocalized|Destination_Text|Premières Promenades|Destination_Text_Original|Premières Promenades|Destination_Topic|False|Destination_Ontology|Rule|Destination_Category|None|Destination_Category_1|None|Text|Loire parce que j' avais un grand-père qui avait un commerce sur les quais et mes premières promenades|Sentence|oui et en général écoutez j' ai oh savez alors comme je suis née là tout auprès de la Loire parce que j' avais un grand-père qui avait un commerce sur les quais et mes premières promenades ça a été sur (les) rives de Loire sûrement j' ai tou|Number|un|Location|Loire</QES_Relation>
+  <QES_Spatial>45.75379805,4.045469930304668</QES_Spatial>
+  <QES_Unlocalized>Premières Promenades</QES_Unlocalized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>et</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>100</ID>
+  <IDQES>dataset_complet/dataset_complet_000036.xml</IDQES>
+  <INSEE>Cadres</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>intellectuelles</Profession>
+  <age_loc>84</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>souvenirs de moi j' ai vécu à la campagne hein surtout à partir de j' ai peu de souvenirs (en)fin c' est des souvenirs très personnels que j' ai avec mes parents non non non non je les ai justement j' ai pas connu aucun grand-père aucun grand-amorc j' ai</content>
+  <en>supérieures</en>
+  <etudes>professions</etudes>
+  <filename>a012a.txt</filename>
+  <niveau_etude>CEP</niveau_etude>
+  <niveau_etude_normalise>Primaire</niveau_etude_normalise>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;souvenirs de moi j&amp;apos: ai vécu à la campagne hein surtout à partir de j&amp;apos: ai &lt;Sentiment&gt;peu de souvenirs&lt;/Sentiment&gt; (en)fin c&amp;apos: est des souvenirs &lt;SentimentUncategorized&gt;très personnels&lt;/SentimentUncategorized&gt; que j&amp;apos: ai avec mes parents non non non non je les ai justement j&amp;apos: ai pas connu aucun grand-père aucun grand-amorc j&amp;apos: ai&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Sentiment>Peu de souvenirs</QES_Sentiment>
+  <QES_SentimentForce>0</QES_SentimentForce>
+  <QES_SentimentUncategorized>Très Personnels</QES_SentimentUncategorized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

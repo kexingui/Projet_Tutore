@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>intermédiaires</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>97</ID>
+  <IDQES>dataset_complet/dataset_complet_000043.xml</IDQES>
+  <INSEE>Professions</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <age_loc>80</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>euh commencer par l' enfance alors oh alors là qu' est-ce que je vais bien vous dire donc je suis né en mille-neuf-cent-vingt-cinq hein donc à Pussay là où euh Pussay donc le où je vous ai dit c' était un Pussay c' était un grand bourg de de mille-sept-ce</content>
+  <filename>a009a.txt</filename>
+  <niveau_etude>CEP</niveau_etude>
+  <niveau_etude_normalise>Primaire</niveau_etude_normalise>
+  <QES_City>Pussay</QES_City>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;euh commencer par l&amp;apos: enfance alors oh alors là qu&amp;apos: est-ce que je vais bien vous dire donc je suis né en mille-neuf-cent-vingt-cinq hein donc à &lt;Location&gt;Pussay&lt;/Location&gt; là où euh &lt;Location&gt;Pussay&lt;/Location&gt; donc le où je vous ai dit c&amp;apos: était un &lt;Location&gt;Pussay&lt;/Location&gt; c&amp;apos: était un grand bourg de de mille-sept-ce&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Location>Pussay</QES_Location>
+  <QES_LocationTopic>Pussay</QES_LocationTopic>
+  <QES_Spatial>48.3495575,1.9917237</QES_Spatial>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

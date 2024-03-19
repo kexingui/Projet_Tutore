@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(CAP-DNB)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>103</ID>
+  <IDQES>dataset_complet/dataset_complet_000030.xml</IDQES>
+  <INSEE>3</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <age_loc>88</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>anon hm? magnifiques magnifiques oui j' ai j' ai été une petite fille gâtée une petite fille heureuse euh mon père travaillait bien sûr mais ma mère était à la maison et jusqu' à la guerre ça a été le rêve ah c' est oui un rêve éveillé hein c' est vrai un</content>
+  <etudes>Employés</etudes>
+  <filename>a015a.txt</filename>
+  <niveau_etude>BE</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <QES_Coldconcept>Magnifiques magnifiques;Rêve éveillé</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;anon hm? &lt;Coldconcept&gt;&lt;Sentiment&gt;magnifiques magnifiques&lt;/Sentiment&gt;&lt;/Coldconcept&gt; oui j&amp;apos: ai j&amp;apos: ai été une petite fille gâtée une petite fille &lt;Sentiment&gt;heureuse&lt;/Sentiment&gt; euh mon père travaillait &lt;Sentiment&gt;bien sûr&lt;/Sentiment&gt; mais ma mère était à la maison et jusqu&amp;apos: à la guerre ça a été le rêve ah c&amp;apos: est oui un &lt;Coldconcept&gt;rêve éveillé&lt;/Coldconcept&gt; hein c&amp;apos: &lt;SentimentUncategorized&gt;est vrai&lt;/SentimentUncategorized&gt; un&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Sentiment>Magnifiques magnifiques;Heureuse;Bien Sûr</QES_Sentiment>
+  <QES_SentimentForce>1</QES_SentimentForce>
+  <QES_SentimentUncategorized>Est Vrai</QES_SentimentUncategorized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

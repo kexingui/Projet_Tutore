@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>92</ID>
+  <IDQES>dataset_complet/dataset_complet_000051.xml</IDQES>
+  <INSEE>Employés</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <age_loc>77</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>oh ben une enfance euh pff avec des parents euh très stricts j' ai eu une enfance euh j' étais pas malheureuse mais j' avais des parents euh assez sévères euh il fallait obéir et il ne fallait pas répondre et voilà bon ben et j' ai été élevée bien élevée</content>
+  <filename>a001a.txt</filename>
+  <niveau_etude>CEP</niveau_etude>
+  <niveau_etude_normalise>Primaire</niveau_etude_normalise>
+  <QES_Coldconcept>Enfance euh</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;oh ben une &lt;Coldconcept&gt;enfance euh&lt;/Coldconcept&gt; pff avec des parents &lt;SentimentUncategorized&gt;euh très stricts&lt;/SentimentUncategorized&gt; j&amp;apos: ai eu une &lt;Coldconcept&gt;enfance euh&lt;/Coldconcept&gt; j&amp;apos: étais &lt;Sentiment&gt;pas malheureuse&lt;/Sentiment&gt; mais j&amp;apos: avais des parents euh assez &lt;Sentiment&gt;sévères&lt;/Sentiment&gt; euh &lt;Suggestion&gt;il fallait obéir&lt;/Suggestion&gt; et il ne fallait pas répondre et voilà &lt;Sentiment&gt;bon&lt;/Sentiment&gt; ben et j&amp;apos: ai été &lt;SentimentUncategorized&gt;élevée bien élevée&lt;/SentimentUncategorized&gt;&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Sentiment>Pas malheureuse;Sévères;Bon</QES_Sentiment>
+  <QES_SentimentForce>0</QES_SentimentForce>
+  <QES_SentimentUncategorized>Euh Très Stricts;Élevée Bien Élevée</QES_SentimentUncategorized>
+  <QES_Suggestion>Il fallait obéir</QES_Suggestion>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

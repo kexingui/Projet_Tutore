@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(BAC)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:24.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>117</ID>
+  <IDQES>dataset_complet/dataset_complet_000006.xml</IDQES>
+  <INSEE>4</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>et</Profession>
+  <age_loc>92</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>eh bien mes parents étaient très pauvres nous étions cinq dans deux pièces mon papa était vendeur dans un magasin de vêtements et ma mère repassait du linge pour les bourgeois de la ville il est évident que le régime de la maison était extrêmement modeste</content>
+  <en>professions</en>
+  <etudes>Cadres</etudes>
+  <filename>a031a.txt</filename>
+  <niveau_etude>BAC</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <propres>supérieures</propres>
+  <termes>intellectuelles</termes>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;eh bien mes parents étaient &lt;Sentiment&gt;très pauvres&lt;/Sentiment&gt; nous étions cinq dans deux pièces mon &lt;JobTitle&gt;papa&lt;/JobTitle&gt; &lt;SentimentUncategorized&gt;était &lt;JobTitle&gt;vendeur&lt;/JobTitle&gt;&lt;/SentimentUncategorized&gt; dans un magasin de vêtements et ma mère repassait du linge pour les bourgeois de la ville il &lt;SentimentUncategorized&gt;est évident&lt;/SentimentUncategorized&gt; que le régime de la maison &lt;SentimentUncategorized&gt;était extrêmement modeste&lt;/SentimentUncategorized&gt;&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_JobTitle>Papa;Vendeur</QES_JobTitle>
+  <QES_Sentiment>Très pauvres</QES_Sentiment>
+  <QES_SentimentForce>-1</QES_SentimentForce>
+  <QES_SentimentUncategorized>Était Vendeur;Est Évident;Était Extrêmement Modeste</QES_SentimentUncategorized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(BAC)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:24.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>116</ID>
+  <IDQES>dataset_complet/dataset_complet_000008.xml</IDQES>
+  <INSEE>4</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>et</Profession>
+  <age_loc>68</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>? NPp c' est c' est d' origine italienne oui en fait je suis d' origine corse mais mon le grand-père de mon grand-père est est amorc est a émigré d' Italie vers la Corse vers dix-huit-cent-cinquante à Paris quarante-sept mille-neuf-cent-quarante-sept NUM</content>
+  <en>professions</en>
+  <etudes>Cadres</etudes>
+  <filename>a030a.txt</filename>
+  <niveau_etude>BAC</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <propres>supérieures</propres>
+  <termes>intellectuelles</termes>
+  <QES_Ambiguous>Npp</QES_Ambiguous>
+  <QES_City>Paris</QES_City>
+  <QES_Coldconcept>Origine italienne;Origine corse;Mille-neuf-cent-quarante-sept num</QES_Coldconcept>
+  <QES_Country>Italie</QES_Country>
+  <QES_CountryTopicCode>IT;FR</QES_CountryTopicCode>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;? &lt;Relation&gt;&lt;Relation&gt;&lt;Ambiguous&gt;NPp&lt;/Ambiguous&gt; c&amp;apos: est c&amp;apos: est d&amp;apos: &lt;Coldconcept&gt;origine italienne&lt;/Coldconcept&gt;&lt;/Relation&gt; oui en fait je suis d&amp;apos: &lt;Coldconcept&gt;origine corse&lt;/Coldconcept&gt;&lt;/Relation&gt; mais mon le grand-père de mon grand-père est est amorc est a émigré d&amp;apos: &lt;Location&gt;Italie&lt;/Location&gt; vers la Corse vers dix-huit-cent-cinquante à &lt;Location&gt;Paris&lt;/Location&gt; quarante-sept &lt;Coldconcept&gt;mille-neuf-cent-quarante-sept &lt;UnknownOrganization&gt;NUM&lt;/UnknownOrganization&gt;&lt;/Coldconcept&gt;&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Location>Italie;Paris</QES_Location>
+  <QES_LocationTopic>Italie;Paris</QES_LocationTopic>
+  <QES_Relation>Type|Unknown|Category|Être|Ontology|None|Keyword|c' est c' est d'|Sentiment_Force|0|Confidence|0.73|Source_Type|Uppers|Source_Text|Npp|Source_Text_Original|Npp|Source_Topic|False|Source_Ontology|Rule|Source_Category|None|Source_Category_1|None|Destination_Type|Coldconcept|Destination_Text|Origine Italienne|Destination_Text_Original|Origine Italienne|Destination_Topic|False|Destination_Ontology|Rule|Destination_Category|None|Destination_Category_1|None|Text|NPp c' est c' est d' origine italienne|Sentence|NPp c' est c' est d' origine italienne oui en fait je suis d' origine corse mais mon le grand-père de mon grand-père est est amorc est a émigré d' Italie vers la Corse vers dix-huit-cent-cinquante à Paris quarante-sept mille-neuf-cent-quarante-sept NUM|Location|Italie;Type|Unknown|Category|Faire|Ontology|None|Keyword|c' est c' est d' origine italienne oui en fait je suis d'|Sentiment_Force|0|Confidence|0.2|Source_Type|Uppers|Source_Text|Npp|Source_Text_Original|Npp|Source_Topic|False|Source_Ontology|Rule|Source_Category|None|Source_Category_1|None|Destination_Type|Coldconcept|Destination_Text|Origine Corse|Destination_Text_Original|Origine Corse|Destination_Topic|False|Destination_Ontology|Rule|Destination_Category|None|Destination_Category_1|None|Text|NPp c' est c' est d' origine italienne oui en fait je suis d' origine corse|Sentence|NPp c' est c' est d' origine italienne oui en fait je suis d' origine corse mais mon le grand-père de mon grand-père est est amorc est a émigré d' Italie vers la Corse vers dix-huit-cent-cinquante à Paris quarante-sept mille-neuf-cent-quarante-sept NUM|Location|Italie</QES_Relation>
+  <QES_Spatial>43,12;48.856944444,2.351388888</QES_Spatial>
+  <QES_UnknownOrganization>Num</QES_UnknownOrganization>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

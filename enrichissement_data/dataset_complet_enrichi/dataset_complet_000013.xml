@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(BAC)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:24.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>113</ID>
+  <IDQES>dataset_complet/dataset_complet_000013.xml</IDQES>
+  <INSEE>4</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>et</Profession>
+  <age_loc>86</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>souvenirs d' enfance ? ah le premier souvenir c' est un souvenir euh musical puisque (vous) voulez le savoir d' après le le ce souvenir-là moi moi je m' en souviens comme d' une musique qu' il y avait à la hauteur de mon oreille droite très forte et que j</content>
+  <en>professions</en>
+  <etudes>Cadres</etudes>
+  <filename>a027a.txt</filename>
+  <niveau_etude>BAC</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <propres>supérieures</propres>
+  <termes>intellectuelles</termes>
+  <QES_Coldconcept>Souvenirs d' enfance;Souvenir euh;Oreille droite</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; ? ah le premier souvenir c&amp;apos: est un &lt;Coldconcept&gt;souvenir euh&lt;/Coldconcept&gt; musical puisque (vous) voulez le savoir d&amp;apos: après le le ce souvenir-là moi moi je m&amp;apos: en souviens comme d&amp;apos: une musique qu&amp;apos: il y avait à la hauteur de mon &lt;Coldconcept&gt;oreille droite&lt;/Coldconcept&gt; &lt;Sentiment&gt;très forte&lt;/Sentiment&gt; et que j&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Sentiment>Très Forte</QES_Sentiment>
+  <QES_SentimentForce>2</QES_SentimentForce>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

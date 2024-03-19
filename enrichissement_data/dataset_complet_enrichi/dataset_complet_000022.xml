@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(CAP-DNB)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>109</ID>
+  <IDQES>dataset_complet/dataset_complet_000022.xml</IDQES>
+  <INSEE>3</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>intermédiaires</Profession>
+  <age_loc>90</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>anon alors les souvenirs de quelle nature la famille eh bien moi je suis né euh dans une famille euh rurale de campagne les grands-parents étaient cultivateurs les grands-parents étaient cultivateurs et j' ai passé une partie de mon enfance en Beauce c' e</content>
+  <etudes>Professions</etudes>
+  <filename>a023a.txt</filename>
+  <niveau_etude>BE</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <QES_City>Beauce</QES_City>
+  <QES_Coldconcept>Famille euh;Enfance en beauce</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;anon alors les souvenirs de quelle nature la famille eh bien moi je suis né euh dans une &lt;Coldconcept&gt;famille euh&lt;/Coldconcept&gt; rurale de campagne les grands-parents &lt;SentimentUncategorized&gt;étaient cultivateurs&lt;/SentimentUncategorized&gt; les grands-parents &lt;SentimentUncategorized&gt;étaient cultivateurs&lt;/SentimentUncategorized&gt; et j&amp;apos: ai passé une partie de mon &lt;Coldconcept&gt;enfance en &lt;Location&gt;Beauce&lt;/Location&gt;&lt;/Coldconcept&gt; c&amp;apos: e&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Location>Beauce</QES_Location>
+  <QES_LocationTopic>Beauce</QES_LocationTopic>
+  <QES_SentimentUncategorized>Étaient Cultivateurs</QES_SentimentUncategorized>
+  <QES_Spatial>48.3390316,-1.1555522</QES_Spatial>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

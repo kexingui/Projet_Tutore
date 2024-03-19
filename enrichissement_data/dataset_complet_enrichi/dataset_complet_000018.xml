@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(CAP-DNB)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:24.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>111</ID>
+  <IDQES>dataset_complet/dataset_complet_000018.xml</IDQES>
+  <INSEE>3</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>renseigné</Profession>
+  <age_loc>96</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>oh la j' en ai des souvenirs d' enfance j' en ai beaucoup beaucoup beaucoup beaucoup je vous dis je suis née donc à mon père étant douanier à la frontière suisse euh une petite localité que j' ai quittée j' avais l' âge j' avais cinq ans mais j' en ai de</content>
+  <etudes>Non</etudes>
+  <filename>a025a.txt</filename>
+  <niveau_etude>BE</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <QES_Coldconcept>Souvenirs d' enfance</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;oh la j&amp;apos: en ai des &lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; j&amp;apos: en ai beaucoup beaucoup beaucoup beaucoup je vous dis je suis née donc à mon père étant &lt;JobTitle&gt;douanier&lt;/JobTitle&gt; à la &lt;Unlocalized&gt;frontière suisse&lt;/Unlocalized&gt; euh une petite localité que j&amp;apos: ai quittée j&amp;apos: avais l&amp;apos: âge j&amp;apos: avais cinq ans mais j&amp;apos: en ai de&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_JobTitle>Douanier</QES_JobTitle>
+  <QES_Unlocalized>Frontière Suisse</QES_Unlocalized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

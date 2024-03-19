@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>96</ID>
+  <IDQES>dataset_complet/dataset_complet_000045.xml</IDQES>
+  <INSEE>Ouvriers</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <age_loc>84</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>ben amorc posez-moi les questions puis (je) vous répondrai si amorc enfin mes mon père a hérité de de l' atelier de son son père alors donc euh mon amorc mon grand-père était maréchal-ferrant vous savez ce que c' est et je l' ai pas connu j' ai connu ma g</content>
+  <filename>a008a.txt</filename>
+  <niveau_etude>CEP</niveau_etude>
+  <niveau_etude_normalise>Primaire</niveau_etude_normalise>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;ben amorc posez-moi les questions puis (je) vous répondrai si amorc enfin mes mon père a hérité de de l&amp;apos: atelier de son son père alors donc euh mon amorc mon grand-père &lt;SentimentUncategorized&gt;était &lt;JobTitle&gt;maréchal-ferrant&lt;/JobTitle&gt;&lt;/SentimentUncategorized&gt; vous savez ce que c&amp;apos: est et je l&amp;apos: ai pas connu j&amp;apos: ai connu ma g&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_JobTitle>Maréchal-Ferrant</QES_JobTitle>
+  <QES_SentimentUncategorized>Était Maréchal-Ferrant</QES_SentimentUncategorized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

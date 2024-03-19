@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(BAC)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>102</ID>
+  <IDQES>dataset_complet/dataset_complet_000032.xml</IDQES>
+  <INSEE>4</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>et</Profession>
+  <age_loc>90</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>bon j' ai des bons souvenirs j' habitais donc dans ce ce pays de Meung-sur-Loire qui était un chef-lieu de canton donc qui amorc l' avant(tage) l' avantage d' être une ville moyenne et en même temps euh pas trop campagne quoi il y avait sur place tous les</content>
+  <en>professions</en>
+  <etudes>Cadres</etudes>
+  <filename>a014a.txt</filename>
+  <niveau_etude>BAC</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <propres>supérieures</propres>
+  <termes>intellectuelles</termes>
+  <QES_City>Meung Sur Loire</QES_City>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;Sentiment&gt;bon&lt;/Sentiment&gt; j&amp;apos: ai des &lt;Sentiment&gt;bons&lt;/Sentiment&gt; souvenirs j&amp;apos: habitais donc dans ce ce &lt;Unlocalized&gt;pays de &lt;Location&gt;Meung-sur-Loire&lt;/Location&gt;&lt;/Unlocalized&gt; qui était un chef-lieu de canton donc qui amorc l&amp;apos: avant(tage) l&amp;apos: &lt;Sentiment&gt;avantage&lt;/Sentiment&gt; d&amp;apos: être une ville moyenne et en même temps euh &lt;Sentiment&gt;pas trop campagne&lt;/Sentiment&gt; quoi il y avait sur place tous les&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Location>Meung Sur Loire</QES_Location>
+  <QES_LocationTopic>Meung Sur Loire</QES_LocationTopic>
+  <QES_Sentiment>Bon;Bons;Avantage;Pas trop campagne</QES_Sentiment>
+  <QES_SentimentForce>1</QES_SentimentForce>
+  <QES_Spatial>47.8268726,1.6968033</QES_Spatial>
+  <QES_Unlocalized>Pays De Meung-Sur-Loire</QES_Unlocalized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

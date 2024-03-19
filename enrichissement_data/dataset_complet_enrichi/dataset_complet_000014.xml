@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <ColSuppl_16>un</ColSuppl_16>
+  <ColSuppl_17>collège</ColSuppl_17>
+  <ColSuppl_18>en</ColSuppl_18>
+  <ColSuppl_19>ZEP</ColSuppl_19>
+  <ColSuppl_20>pendant</ColSuppl_20>
+  <ColSuppl_21>4</ColSuppl_21>
+  <ColSuppl_22>mois</ColSuppl_22>
+  <Commentaire>Niveau</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:24.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>113</ID>
+  <IDQES>dataset_complet/dataset_complet_000014.xml</IDQES>
+  <INSEE>typographie</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>(BAC)</Profession>
+  <Unnamed_>d’éducation</Unnamed_>
+  <age_loc>19</age_loc>
+  <classe_nouv>-30</classe_nouv>
+  <content>eh la vie de ma &amp;mère tu l'as vu le dragon &amp;narvalo euh euh en haut là et il faisait comme euh ouais &amp;Wallah lui c'est du sérieux quand quand quand quand tu as pas trop de trucs derrière hein pourtant c'est bien x x ah &amp;putain même pas ça euh &amp;Putain pu&amp;tain mais ouais mais &amp;narvalo faut genre le truc royal niveau dix là il y a une grave différence par rapport au niveau huit non ? x hein ? x numéro un qui ? ah c'est allez allez allez &amp;putain mais nar&amp;valo  &amp;péter  tu cherches tu cherches quoi ? ah c'est le niveau deux maintenont oh la vie de ma mère je me suis trompé de carte fils de &amp;pute &amp;Putain bah ouais mais c'était une équipe de &amp;merde là oui bien sûr je suis vert je prends voilà l'avance &amp;narvalo je passe mon niveau  oika il le monte euh il le monte Oika il le monte il suit tout le monde &amp;crari mais hier c'était pas ils ont cours le mercredi à  où au  ? tu es un  tu es content tu as un vieuxvas-yx et et il était là déjà avant neuf heures ? non lui il a dit tranquille il a voulu dire</content>
+  <en>Professions</en>
+  <etudes>4</etudes>
+  <filename>MPF_Nicolas_19.txt</filename>
+  <niveau_etude>baccalauréat</niveau_etude>
+  <niveau_etude_normalise>de</niveau_etude_normalise>
+  <propres>assistant</propres>
+  <termes>intermédiaires</termes>
+  <QES_Coldconcept>Royal niveau;Grave différence;Carte fils;Putain bah;Niveau oika</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;eh la vie de ma &amp;amp:mère tu l&amp;apos:as vu le &lt;JobTitle&gt;dragon&lt;/JobTitle&gt; &amp;amp:narvalo euh euh en haut là et il faisait comme euh ouais &amp;amp:Wallah lui c&amp;apos:est du sérieux quand quand quand quand tu as &lt;SentimentUncategorized&gt;pas trop de trucs&lt;/SentimentUncategorized&gt; derrière hein pourtant c&amp;apos:est bien x x ah &amp;amp:putain même pas ça euh &amp;amp:Putain pu&amp;amp:tain mais ouais mais &amp;amp:narvalo &lt;SentimentUncategorized&gt;faut genre&lt;/SentimentUncategorized&gt; le &lt;SentimentUncategorized&gt;truc &lt;Coldconcept&gt;royal niveau&lt;/Coldconcept&gt;&lt;/SentimentUncategorized&gt; dix là il y a une &lt;Coldconcept&gt;&lt;Sentiment&gt;grave&lt;/Sentiment&gt; différence&lt;/Coldconcept&gt; par rapport au niveau huit non ? x hein ? x numéro un qui ? ah c&amp;apos:&lt;SentimentUncategorized&gt;est allez&lt;/SentimentUncategorized&gt; allez allez &amp;amp:putain mais nar&amp;amp:valo &amp;amp:péter tu cherches tu cherches quoi ? ah c&amp;apos:est le niveau deux maintenont oh la vie de ma mère je me suis &lt;Sentiment&gt;trompé&lt;/Sentiment&gt; de &lt;Coldconcept&gt;carte fils&lt;/Coldconcept&gt; de &amp;amp:pute &amp;amp:&lt;Coldconcept&gt;Putain bah&lt;/Coldconcept&gt; ouais mais c&amp;apos:était une équipe de &amp;amp:&lt;Sentiment&gt;merde&lt;/Sentiment&gt; là oui &lt;Sentiment&gt;bien sûr&lt;/Sentiment&gt; je &lt;SentimentUncategorized&gt;suis vert&lt;/SentimentUncategorized&gt; je prends voilà l&amp;apos:avance &amp;amp:narvalo je passe mon &lt;Coldconcept&gt;niveau oika&lt;/Coldconcept&gt; il le monte euh il le &lt;SentimentUncategorized&gt;monte &lt;Unknown&gt;Oika&lt;/Unknown&gt;&lt;/SentimentUncategorized&gt; il le monte il suit tout le monde &amp;amp:crari mais hier c&amp;apos:était pas ils &lt;SentimentUncategorized&gt;ont cours&lt;/SentimentUncategorized&gt; le mercredi à où au ? tu es un tu es &lt;Sentiment&gt;content&lt;/Sentiment&gt; tu as un vieuxvas-yx et et il était là déjà avant neuf heures ? non lui il a dit &lt;Sentiment&gt;tranquille&lt;/Sentiment&gt; il a voulu dire&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_JobTitle>Dragon</QES_JobTitle>
+  <QES_Sentiment>Grave;Trompé;Merde;Bien Sûr;Content;Tranquille</QES_Sentiment>
+  <QES_SentimentForce>0</QES_SentimentForce>
+  <QES_SentimentUncategorized>Pas Trop De Trucs;Faut Genre;Truc Royal Niveau;Est Allez;Suis Vert;Monte Oika;Ont Cours</QES_SentimentUncategorized>
+  <QES_Unknown>Oika</QES_Unknown>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

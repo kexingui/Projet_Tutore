@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <DATE_COLLECT>2024-03-13T16:48:24.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>110</ID>
+  <IDQES>dataset_complet/dataset_complet_000019.xml</IDQES>
+  <INSEE>Employés</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <age_loc>84</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>mes souvenirs d' enfance donc je suis née à et j' ai quitté cet endroit à vingt-deux ans quand je me suis mariée alors mes souvenirs d' enfance chez moi euh ben jusqu' à la guerre là j' étais toujours chez mes parents qui étaient cultivateurs c' était pas</content>
+  <filename>a024a.txt</filename>
+  <niveau_etude>CEP</niveau_etude>
+  <niveau_etude_normalise>Primaire</niveau_etude_normalise>
+  <QES_Coldconcept>Souvenirs d' enfance</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;mes &lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; donc je suis née à et j&amp;apos: ai quitté cet endroit à vingt-deux ans quand je me suis mariée alors mes &lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; chez moi euh ben jusqu&amp;apos: à la guerre là j&amp;apos: étais toujours chez mes parents qui étaient cultivateurs c&amp;apos: était pas&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

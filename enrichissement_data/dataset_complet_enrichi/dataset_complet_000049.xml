@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(BAC)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>93</ID>
+  <IDQES>dataset_complet/dataset_complet_000049.xml</IDQES>
+  <INSEE>4</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>et</Profession>
+  <age_loc>83</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>oui ah ben alors mon père était officier dans la gendarmerie oui euh je suis le dernier d' une famille de sept enfants voilà très peu très peu comme je suis né euh j' ai une soeur qui a vingt-cinq ans de plus que moi voilà donc j' ai été le petit dernier</content>
+  <en>professions</en>
+  <etudes>Cadres</etudes>
+  <filename>a004a.txt</filename>
+  <niveau_etude>BAC</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <propres>supérieures</propres>
+  <termes>intellectuelles</termes>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;oui ah ben alors mon père était &lt;JobTitle&gt;officier&lt;/JobTitle&gt; dans la gendarmerie oui euh je suis le dernier d&amp;apos: une famille de sept enfants voilà très peu très peu comme je suis né euh j&amp;apos: ai une soeur qui a vingt-cinq ans de plus que moi voilà donc j&amp;apos: ai été le petit dernier&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_JobTitle>Officier</QES_JobTitle>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

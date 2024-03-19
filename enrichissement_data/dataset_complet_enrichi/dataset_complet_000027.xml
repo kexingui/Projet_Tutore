@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(BAC)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>105</ID>
+  <IDQES>dataset_complet/dataset_complet_000027.xml</IDQES>
+  <INSEE>4</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>intermédiaires</Profession>
+  <age_loc>83</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>tout dépend de quelle enfance il s' agit de ma toute petite enfance euh je n' ai pas de mauvais souvenirs jusqu' à l' âge euh de sept ans où hélas euh mon père est a été mobilisé et a été fait prisonnier est resté en captivité si bien que je ne l' ai revu</content>
+  <etudes>Professions</etudes>
+  <filename>a017a.txt</filename>
+  <niveau_etude>BAC</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <QES_Concept>Petite enfance</QES_Concept>
+  <QES_ConceptCategorized>Petite enfance</QES_ConceptCategorized>
+  <QES_ConceptSociety>Petite enfance</QES_ConceptSociety>
+  <QES_ConceptTopic>Petite enfance</QES_ConceptTopic>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;tout dépend de quelle enfance il s&amp;apos: agit de ma toute &lt;Relation&gt;&lt;Concept&gt;&lt;ConceptSociety&gt;petite enfance&lt;/ConceptSociety&gt;&lt;/Concept&gt; euh je n&amp;apos: ai &lt;Sentiment&gt;pas de mauvais&lt;/Sentiment&gt;&lt;/Relation&gt; souvenirs jusqu&amp;apos: à l&amp;apos: âge euh de sept ans où &lt;Sentiment&gt;hélas&lt;/Sentiment&gt; euh mon père est a été mobilisé et a été fait &lt;Sentiment&gt;prisonnier&lt;/Sentiment&gt; est resté en captivité si bien que je ne l&amp;apos: ai revu&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Relation>Type|Sentiment|Category|Sentiment|Keyword|Mauvais|Sentiment_Force|2|Confidence|0.0|Between|ADJ-PRON-ADV-VERB|Source_Type|Sentiment|Source_Text|Pas de mauvais|Source_Text_Original|Pas de mauvais|Source_Ontology|None|Source_Category|None|Source_Category_1|None|Destination_Type|Concept|Destination_Text|Petite enfance|Destination_Text_Original|Petite Enfance|Destination_Ontology|Anr|Destination_Category|Society|Destination_Category_1|Society|Text|petite enfance euh je n' ai pas de mauvais|Sentence|tout dépend de quelle enfance il s' agit de ma toute petite enfance euh je n' ai pas de mauvais souvenirs jusqu' à l' âge euh de sept ans où hélas euh mon père est a été mobilisé et a été fait prisonnier est resté en captivité si bien que je ne l' ai revu</QES_Relation>
+  <QES_Sentiment>Pas de mauvais;Hélas;Prisonnier</QES_Sentiment>
+  <QES_SentimentForce>0</QES_SentimentForce>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

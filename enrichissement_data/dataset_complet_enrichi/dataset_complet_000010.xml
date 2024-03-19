@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(BAC)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:24.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>115</ID>
+  <IDQES>dataset_complet/dataset_complet_000010.xml</IDQES>
+  <INSEE>4</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>et</Profession>
+  <age_loc>77</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>vos souvenirs d' enfance ils sont comment les souvenirs d' enfance merveilleux mon père travaillait dans une entreprise de travaux publiques ma mère était jeune institutrice et n' a recommencé à travailler que vers l' âge de quarante ans et elle a repris</content>
+  <en>professions</en>
+  <etudes>Cadres</etudes>
+  <filename>a029a.txt</filename>
+  <niveau_etude>BAC</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <propres>supérieures</propres>
+  <termes>intellectuelles</termes>
+  <QES_Coldconcept>Souvenirs d' enfance;Entreprise de travaux</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;vos &lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; ils sont comment les &lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; &lt;Sentiment&gt;merveilleux&lt;/Sentiment&gt; mon père travaillait dans une &lt;Coldconcept&gt;entreprise de travaux&lt;/Coldconcept&gt; publiques ma mère &lt;SentimentUncategorized&gt;était jeune &lt;JobTitle&gt;institutrice&lt;/JobTitle&gt;&lt;/SentimentUncategorized&gt; et n&amp;apos: a recommencé à travailler que vers l&amp;apos: âge de quarante ans et elle a repris&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_JobTitle>Institutrice</QES_JobTitle>
+  <QES_Sentiment>Merveilleux</QES_Sentiment>
+  <QES_SentimentForce>2</QES_SentimentForce>
+  <QES_SentimentUncategorized>Était Jeune Institutrice</QES_SentimentUncategorized>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

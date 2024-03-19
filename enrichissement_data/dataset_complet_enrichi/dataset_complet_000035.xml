@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>intermédiaires</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:25.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>101</ID>
+  <IDQES>dataset_complet/dataset_complet_000035.xml</IDQES>
+  <INSEE>Professions</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <age_loc>92</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>alors l' enfance mes souvenirs d' enfance spontané bon on lirons on lira ça après alors euh mes souvenirs d' enfance euh je suis l' aînée de sept enfants déjà hein je suis l' aînée de sept enfants à peu près euh de deux ans en deux ans hein et j' ai eu qu</content>
+  <filename>a013a.txt</filename>
+  <niveau_etude>CEP</niveau_etude>
+  <niveau_etude_normalise>Primaire</niveau_etude_normalise>
+  <QES_Coldconcept>Souvenirs d' enfance</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;alors l&amp;apos: enfance mes &lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; &lt;Sentiment&gt;spontané bon&lt;/Sentiment&gt; on lirons on lira ça après alors euh mes &lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; euh je suis l&amp;apos: aînée de sept enfants déjà hein je suis l&amp;apos: aînée de sept enfants à peu près euh de deux ans en deux ans hein et j&amp;apos: ai eu qu&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Sentiment>Spontané bon</QES_Sentiment>
+  <QES_SentimentForce>1</QES_SentimentForce>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>

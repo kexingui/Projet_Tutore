@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DOCUMENT>
+  <BASE_ID>22801201</BASE_ID>
+  <Commentaire>(BAC)</Commentaire>
+  <DATE_COLLECT>2024-03-13T16:48:24.000Z</DATE_COLLECT>
+  <ETAT>100</ETAT>
+  <ID>112</ID>
+  <IDQES>dataset_complet/dataset_complet_000015.xml</IDQES>
+  <INSEE>4</INSEE>
+  <Plateforme_id>1000</Plateforme_id>
+  <Profession>et</Profession>
+  <age_loc>88</age_loc>
+  <classe_nouv>60+</classe_nouv>
+  <content>euh du temps du bonheur ou du temps de l' épreuve ? les deux ? les deux ? oh ben des souvenirs d' enfance j' ai eu une enfance extrêmement heureuse euh à la fois parisienne et campagnarde est-ce que ça enregistre là ? oui ? et alors euh bon eh bien j' ai</content>
+  <en>professions</en>
+  <etudes>Cadres</etudes>
+  <filename>a026a.txt</filename>
+  <niveau_etude>BAC</niveau_etude>
+  <niveau_etude_normalise>Niveau</niveau_etude_normalise>
+  <propres>supérieures</propres>
+  <termes>intellectuelles</termes>
+  <QES_Coldconcept>Euh du temps;Souvenirs d' enfance</QES_Coldconcept>
+  <QES_Html>&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;Coldconcept&gt;euh du temps&lt;/Coldconcept&gt; du &lt;Sentiment&gt;bonheur&lt;/Sentiment&gt; ou du temps de l&amp;apos: épreuve ? les deux ? les deux ? oh ben des &lt;Coldconcept&gt;souvenirs d&amp;apos: enfance&lt;/Coldconcept&gt; j&amp;apos: ai eu une enfance &lt;Sentiment&gt;extrêmement heureuse&lt;/Sentiment&gt; euh à la fois parisienne et campagnarde est-ce que ça enregistre là ? oui ? et alors euh &lt;Sentiment&gt;bon&lt;/Sentiment&gt; eh bien j&amp;apos: ai&lt;/body&gt;&lt;/html&gt;</QES_Html>
+  <QES_Sentiment>Bonheur;Extrêmement heureuse;Bon</QES_Sentiment>
+  <QES_SentimentForce>2</QES_SentimentForce>
+  <QES_Version>4079</QES_Version>
+</DOCUMENT>
