@@ -1,4 +1,4 @@
-ID,filename,content,age_loc,classe_nouv,niveau_etude,niveau_etude_normalise,niveau_etude_3_cat,niveau_etude_4_cat,INSEE,INSEE_regroupe,metier_nouv_cat,Profession en termes propres,Commentaire études
+ID,a0,content,age_loc,classe_nouv,niveau_etude,niveau_etude_normalise,niveau_etude_3_cat,niveau_etude_4_cat,INSEE,INSEE_regroupe,metier_nouv_cat,Profession en termes propres,Commentaire études
 92,a001a.txt,"oh ben une enfance euh
 pff avec des parents euh très stricts
 j' ai eu une enfance euh
@@ -7466,7 +7466,7 @@ quand j' ai appris les notes
 de musique avant de lire
 avant de savoir lire
 parce que je trouvais ça très rigolo je trouvais que ça se promenait sur la portée
-",88,60+,BE,Niveau 3 (CAP-DNB),avant BAC,avant BAC,Employés,Employés,,,
+",88,60+,BE,Niveau 3 (CAP-DNB),avant BAC,avant BAC,Employés,Employés,,Militaire/Bancaire,
 104,a016a.txt,"et d'accord
 on commence toujours avec l' enfance
 vos souvenirs d' enfance c' est c' est ils sont comment
@@ -8173,7 +8173,7 @@ personnalisé bah que il y ait moins de misère
 et qu' on perde pas les les avantages acquis pour tous les travailleurs
 je ne sais pas si ça va satisfaire mais c' est pas grave on va dire ouf
 vous êtes obligée de faire avec
-",81,60+,BAC,Niveau 4 (BAC),BAC,BAC,Professions intermédiaires,Professions intermédiaires élargies,,,
+",81,60+,BAC,Niveau 4 (BAC),BAC,BAC,Professions intermédiaires,Professions intermédiaires élargies,,Enseignante,
 105,a017a.txt,"tout dépend de quelle enfance il s' agit
 de ma toute petite enfance euh je n' ai pas de mauvais souvenirs
 jusqu' à l' âge euh de sept ans où hélas euh mon père est a été mobilisé et a été fait prisonnier est resté en captivité si bien que je ne l' ai revu que six ans après
@@ -8596,7 +8596,7 @@ et donc c' est l' enfant pour croître a besoin d' activités d' activités adap
 enfin tous les grands principes de d' éducation nouvelle que vous connaissez sans doute et que ce soit hum Madame Montessori Cousinet Pestalozzi euh c' est un petit peu nos maîtres de référence c' est
 j' en oublie et bien sûr plus près euh Piaget et Vallon c' est que vous avez peut-être lus
 oui
-alors ce ce qui veut dire que euh bon ceci pour être cohérent avait une incidence sur ",83,60+,BAC,Niveau 4 (BAC),BAC,BAC,Professions intermédiaires,Professions intermédiaires élargies,,,
+alors ce ce qui veut dire que euh bon ceci pour être cohérent avait une incidence sur ",83,60+,BAC,Niveau 4 (BAC),BAC,BAC,Professions intermédiaires,Professions intermédiaires élargies,,Instituteur/Professeur,
 109,a023a.txt,"anon
 alors les souvenirs
 de quelle nature
@@ -9499,7 +9499,7 @@ où les droits où les gens euh
 acceptent
 anon
 alors je pense qu' on est passé peut-être d' un extrême mais ce mais ce phénomène
-il doit en Allemagne vous devez également avoir une",90,60+,BE,Niveau 3 (CAP-DNB),avant BAC,avant BAC,Professions intermédiaires,Professions intermédiaires élargies,,,
+il doit en Allemagne vous devez également avoir une",90,60+,BE,Niveau 3 (CAP-DNB),avant BAC,avant BAC,Professions intermédiaires,Professions intermédiaires élargies,,Instituteur/Professeur,
 110,a024a.txt,"mes souvenirs d' enfance
 donc je suis née à
 et j' ai quitté cet endroit à vingt-deux ans quand je me suis mariée
@@ -10442,7 +10442,7 @@ c' est beaucoup mieux
 je sais pas quoi vous dire plus
 ça vous suffit ?
 vous savez je vous aurai pas apporté grand chose peut-être
-",84,60+,CEP,Primaire,avant BAC,avant BAC,Employés,Employés,,,
+",84,60+,CEP,Primaire,avant BAC,avant BAC,Employés,Employés,,Absent,
 111,a025a.txt,"oh la j' en ai des souvenirs d' enfance
 j' en ai beaucoup
 beaucoup beaucoup beaucoup
@@ -11216,7 +11216,7 @@ il y en a une dans la région parisienne je
 c' était vraiment alors des des camarades d' école
 j' ai conservé des camarades d' école
 mais sur euh amorc sur Orléans euh si des des amis du refuge là des cheminots si si euh
-euh je conna",96,60+,BE,Niveau 3 (CAP-DNB),avant BAC,avant BAC,Retraités,Retraités,,,Etudes de droit
+euh je conna",96,60+,BE,Niveau 3 (CAP-DNB),avant BAC,avant BAC,Retraités,Retraités,,Retraité : employé SNCF,Etudes de droit
 112,a026a.txt,"euh du temps du bonheur ou du temps de l' épreuve ?
 les deux ?
 les deux ?
@@ -12723,7 +12723,7 @@ bon
 c' était alors c' était dans un milieu de c' était chez des chez les Irlandais
 alors comme les Irlandais catholiques c' était vraiment le le quartier pauvre de de Manchester
 enfin le la Grammar_School
-se trouve à côté de du qu",86,60+,BAC,Niveau 4 (BAC),BAC,BAC,Cadres et professions intellectuelles supérieures,Cadres et professions intellectuelles supérieures,"Professions juridiques, administratives et éducatives",,CAP
+se trouve à côté de du qu",86,60+,BAC,Niveau 4 (BAC),BAC,BAC,Cadres et professions intellectuelles supérieures,Cadres et professions intellectuelles supérieures,"Professions juridiques, administratives et éducatives",Professeur,CAP
 114,a028a.txt,"oui bah bien sûr
 j' ai j' ai passé mon enfance euh dans ce village-là
 je suis repartie de ce village-là j' avais dix-huit ans
@@ -13418,7 +13418,7 @@ je parle de
 je parle pour les jeunes quoi
 euh je souhaite qu' une chose c' est que
 il y ait une autre vie pour les plus jeunes c' est tout hein
-parce que ",84,60+,CEP,Primaire,avant BAC,avant BAC,Employés,Employés,,,
+parce que ",84,60+,CEP,Primaire,avant BAC,avant BAC,Employés,Employés,,"Employee, then housewife/Employée, après femme au foyer",
 115,a029a.txt,"vos souvenirs d' enfance ils sont comment
 les souvenirs d' enfance
 merveilleux
@@ -15353,7 +15353,7 @@ et ma conclusion je prends la vie je m' excuse de mon propos qui est celui d' un
 je crois qu' il faut prendre la vie comme le bon Dieu la donne
 elle est toujours belle quand il la donne voilà
 c' est tout eh ben voilà
-",92,60+,BAC,Niveau 4 (BAC),BAC,BAC,Cadres et professions intellectuelles supérieures,Cadres et professions intellectuelles supérieures,,,
+",92,60+,BAC,Niveau 4 (BAC),BAC,BAC,Cadres et professions intellectuelles supérieures,Cadres et professions intellectuelles supérieures,,Prête,
 118,a032a.txt,"c'est-à-dire ah ben très bons
 j' ai j' ai été élevée par des parents supers
 alors euh j' ai pas j' ai pas de pro(blèmes)j' ai jamais eu de problèmes
@@ -15889,7 +15889,7 @@ et pour moi euh c' est pareil c' est ma
 on pourrait presque dire c' est ma vieillesse qui est ancrée là
 voilà
 j' ai répondu à ce que vous vouliez ?
-",86,60+,CEP,Primaire,avant BAC,avant BAC,Agriculteurs exploitants,Professions intermédiaires élargies,,,
+",86,60+,CEP,Primaire,avant BAC,avant BAC,Agriculteurs exploitants,Professions intermédiaires élargies,,Absent,
 7,ESLO2_ENT_1001_BV1_23.txt,"marche bien au moins votre truc euh
 d'accord
 non c'est pas ça c'est parce que vous vouliez tester donc euh
@@ -18688,7 +18688,7 @@ j'aime bien le centre-ville aussi mais euh
 y vivre euh tout le temps 
 je suis pas sûre non 
 pour faire mes études se serait très bien 
-mais après m'installer vraiment",21,-30,Bac + 1,Niveau 4 (BAC),BAC,BAC,Autres personnes sans activité professionnelle,Autres personnes sans activité professionnelle,,,DUT Gestion d'entreprise et administration
+mais après m'installer vraiment",21,-30,Bac + 1,Niveau 4 (BAC),BAC,BAC,Autres personnes sans activité professionnelle,Autres personnes sans activité professionnelle,,Ménage,DUT Gestion d'entreprise et administration
 10,ESLO2_ENT_1004_ZF4_62.txt,"oui
 oui
 orléanaise
@@ -36178,7 +36178,7 @@ et et ils sortent leurs dents
 qu'est-ce qu'il fait des &pissous ? 
 non non 
 bah venez vous venez quand vous voulez 
-on vous fera même u-",88,60+,Non renseigné,Non renseigné,Non renseigné,Non renseigné,Retraités,Retraités,,,
+on vous fera même u-",88,60+,Non renseigné,Non renseigné,Non renseigné,Non renseigné,Retraités,Retraités,,Enseignante,
 30,ESLO2_ENT_1021_XF20_52.txt,"ils étaient à &Vernet
 toi tu étais à Paris
 hm
@@ -37206,7 +37206,7 @@ mais j'ai pas forcément envie d'aller euh écouter du jazz euh toute l'année q
 y a le festival de jazz que j'aime beaucoup
 y a le festival de de Sully-sur-Loire au niveau de la musique classique 
 enfin bon non y a quand même beaucoup de choses moi je trouve
-bon il manque peut-être plus euh une vie nocturne avec e",60,60+,formation d'infirmière en psychiatrie,Niveau 5/6 (DUT-Licence),BAC +,BAC +2/3,Professions intermédiaires,Professions intermédiaires élargies,,,formation d'infirmière en psychiatrie
+bon il manque peut-être plus euh une vie nocturne avec e",60,60+,formation d'infirmière en psychiatrie,Niveau 5/6 (DUT-Licence),BAC +,BAC +2/3,Professions intermédiaires,Professions intermédiaires élargies,,Infermière en Pyschiatrie,formation d'infirmière en psychiatrie
 32,ESLO2_ENT_1023_YR23_68.txt,"ah bah moi j'y suis née
 à Fleury-les-Aubrais
 moi je suis née hein
@@ -46468,7 +46468,7 @@ il est amorc il est Place du Martroi euh Place euh de la République
 donc on participe et là aussi moi je trouve que
 euh si tu veux on tient le 
 les amorc amorc une vente de vin chaud
-et là aussi on re",69,60+,Bac + 3,Niveau 5/6 (DUT-Licence),BAC +,BAC +2/3,Autres personnes sans activité professionnelle,Retraités,,Retraité,
+et là aussi on re",69,60+,Bac + 3,Niveau 5/6 (DUT-Licence),BAC +,BAC +2/3,Autres personnes sans activité professionnelle,Retraités,,Infographiste,
 42,ESLO2_ENT_1033_LK33_44.txt,"six ans
 six ans
 fin mai euh
@@ -77354,7 +77354,7 @@ voilà
 où ?
 ben
 vous savez
-la télévision je connais bien c'est un monde que je ",76,60+,Bac + 3,Niveau 5/6 (DUT-Licence),BAC +,BAC +2/3,Retraités,Retraités,,,
+la télévision je connais bien c'est un monde que je ",76,60+,Bac + 3,Niveau 5/6 (DUT-Licence),BAC +,BAC +2/3,Retraités,Retraités,,Directeur administratif et financier dans entreprise,
 75,ESLO2_ENT_1065_RK65_74.txt,"non
 ah moi je suis native d'Orléans
 je suis Orléan-
@@ -100558,7 +100558,7 @@ ah bon pourquoi ?
 ouais
 ah oui il parle euh
 c'est vrai ?
-ah ouais",27,-30,BTS + 4 ans de formation professionnelle,Niveau 5/6 (DUT-Licence),BAC +,BAC +2/3,Professions intermédiaires,Professions intermédiaires élargies,,,
+ah ouais",27,-30,BTS + 4 ans de formation professionnelle,Niveau 5/6 (DUT-Licence),BAC +,BAC +2/3,Professions intermédiaires,Professions intermédiaires élargies,,Absent,
 99,MPF_Caroline_18.txt,"ouais donc je te disais Jasmine euh sans commenaire
 mais grave hm
 mais de toute façon elle de toute façon elle a été investie
@@ -107361,7 +107361,7 @@ au mariage de Marie il était là
 avec 
 oui je me souviens
 hé oui 
-oh mais dans ce cas-là mes mes &potes ils t'intéresseraient aussi",27,-30,Bac + 4,Niveau 7 (Master) et plus,BAC +,BAC 4+,Professions intermédiaires,Professions intermédiaires élargies,,,
+oh mais dans ce cas-là mes mes &potes ils t'intéresseraient aussi",27,-30,Bac + 4,Niveau 7 (Master) et plus,BAC +,BAC 4+,Professions intermédiaires,Professions intermédiaires élargies,,Absent,
 111,MPF_Marie_12.txt,"on commence par ?
 d'accord
 moi je m'appelle Marie
@@ -108467,7 +108467,7 @@ et tu as dit amorc x
 non mais amorc amorc amorc amorc amorc femme étoile non mais c'est c'est ton expression en fait qui me fait rire
 aïe aïe aïe
 il est quelle heure là ?
-non que ",19,-30,"a commencé des études de lettres modernes, qu’elle a arrêtées en cours d’année",Niveau 4 (BAC),BAC,BAC,Professions intermédiaires,Professions intermédiaires élargies,,,
+non que ",19,-30,"a commencé des études de lettres modernes, qu’elle a arrêtées en cours d’année",Niveau 4 (BAC),BAC,BAC,Professions intermédiaires,Professions intermédiaires élargies,,Absent,
 116,MPF_Ramzi_13.txt,"bonjour Nawal
 je m'appelle Ramzi j'ai treize ans au collège Jean Macé
 et euh je suis d'origine tunisienne
