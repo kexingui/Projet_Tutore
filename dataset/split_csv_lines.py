@@ -32,6 +32,6 @@ def split_csv_lines(input_file, output_file):
 
 
 if __name__ == "__main__":
-    source_file = 'dataset_complet_last_version.csv'
-    output_file = 'dataset_last_version.csv'
+    source_file = '001dataset_complet_last_version+genre.csv'
+    output_file = 'dataset_splitted_lines.csv'
     split_csv_lines(source_file, output_file)
